@@ -1,0 +1,78 @@
+jQuery(document).ready(function($) {
+  if ($('.posts-carousel-contain').length) {
+    $(document).find('.post-carousel').each(function() {
+      let desktopPostCount = 1;
+      let tabletPostCount = 1;
+      let edgePadding = 50;
+      let mobileEdgePadding = 20;
+      const carouselContain = $(this).parents('.posts-carousel-contain');
+      const totalPostSlides = carouselContain.attr('class').split(' ')[1];
+      const sliderType = $(this).attr('data-type');
+      const navColor = $(this).attr('data-nav_color');
+      const nav = $(this).attr('data-nav');
+      const mobileNav = $(this).attr('data-mobile-nav');
+      const speed = $(this).attr('data-speed');
+      const navBool = $.trim(nav).toLowerCase() === 'true' ? true : false;
+      const mobileNavBool = $.trim(mobileNav).toLowerCase() === 'true' ? true : false;
+      const axis = $(this).attr('data-axis');
+
+      if (sliderType == 'full-width') {
+        desktopPostCount = 1;
+        edgePadding = $(window).width() * .25;
+        mobileEdgePadding = 0;
+      } else if ($(this).attr('data-posts_per_page')) {
+        desktopPostCount = $(this).attr('data-posts_per_page');
+      } else if (parseInt(totalPostSlides) >= 3) {
+        desktopPostCount = 3;
+      } else if (parseInt(totalPostSlides) == 2) {
+        desktopPostCount = 2;
+      }
+
+      if ($(this).hasClass('images')) {
+        edgePadding = 0;
+        mobileEdgePadding = 0;
+        tabletPostCount = 2;
+      }
+
+      let postSlider = tns({
+        axis: axis,
+        container: this,
+        items: 1,
+        autoplayButtonOutput: false,
+        nav: false,
+        mouseDrag: true,
+        autoplay: true,
+        speed: 1000,
+        autoplayTimeout: speed,
+        edgePadding: 50,
+        controls: navBool,
+        controlsPosition: 'bottom',
+        controlsText: ['<i class="fa-solid fa-chevron-left"></i>', '<i class="fa-solid fa-chevron-right"></i>'],
+        responsive: {
+          0: {
+            items: 1,
+            edgePadding: mobileEdgePadding,
+            controls: mobileNavBool,
+            axis: axis
+          },
+          700: {
+            items: tabletPostCount,
+            edgePadding: edgePadding,
+            controls: mobileNavBool,
+            axis: axis
+          },
+          1000: {
+            items: desktopPostCount,
+            edgePadding: edgePadding,
+            controls: navBool,
+            axis: axis
+          }
+        },
+        onInit: function (info) {
+          console.log(info.container);
+          carouselContain.find('.tns-controls button').css('color', navColor);
+        }
+      });
+    });
+  }
+});
