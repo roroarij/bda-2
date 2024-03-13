@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd" >
+	<service>
+		<engineName>EasyBlog</engineName>
+		<engineLink>https://www.blti.com/</engineLink>
+		<siteName>BLTI</siteName>
+		<homePageLink>https://www.blti.com/index.php?option=com_easyblog&amp;tmpl=component</homePageLink>
+		<apis>
+			<api name="MetaWeblog" preferred="true" apiLink="https://www.blti.com/index.php?option=com_easyblog&amp;view=xmlrpc&amp;tmpl=component" blogID="1" />
+		</apis>
+	</service>
+</rsd>

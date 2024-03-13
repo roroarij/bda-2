@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">BLTI - Surveillance</title>
+	<subtitle type="text">Blog entries categorized under Surveillance</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.blti.com"/>
+	<id>https://www.blti.com/index.php/news-current-events/categories/surveillance</id>
+	<updated>2024-03-13T01:09:46+00:00</updated>
+	<generator>MYOB</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.blti.com/index.php/news-current-events/categories/surveillance?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Radar Intrusion Surveillance Devices for Critical Infrastructure</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/radar-intrusion-surveillance-devices-for-critical-infrastructure"/>
+		<published>2021-11-08T15:27:53+00:00</published>
+		<updated>2021-11-08T15:27:53+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/radar-intrusion-surveillance-devices-for-critical-infrastructure</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">When planning security for critical infrastructure, you need to be prepared for a wide variety of potential attacks, and able to detect intruders accu...</summary>
+		<content type="html">When planning security for critical infrastructure, you need to be prepared for a wide variety of potential attacks, and able to detect intruders accu...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Spook-tacular Safety Tips for Halloween</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/spook-tacular-safety-tips-for-halloween"/>
+		<published>2021-10-25T21:18:34+00:00</published>
+		<updated>2021-10-25T21:18:34+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/spook-tacular-safety-tips-for-halloween</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">With Halloween quickly approaching, there is more to do than to make sure you have enough candy for trick-or-treaters or ensure that your home is one ...</summary>
+		<content type="html">With Halloween quickly approaching, there is more to do than to make sure you have enough candy for trick-or-treaters or ensure that your home is one ...</content>
+		<category term="BLTI" />
+	</entry>
+</feed>

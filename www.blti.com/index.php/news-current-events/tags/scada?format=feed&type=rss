@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - SCADA</title>
+		<description><![CDATA[All blog entries tagged as SCADA]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/scada</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:16 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/scada?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Understanding SCADA uses for Water Treatment Facilities</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-scada-uses-for-water-treatment-facilities</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-scada-uses-for-water-treatment-facilities</guid>
+			<description><![CDATA[Houston is one of the largest metroplexes in the United States.&nbsp; The Greater Houston area&nbsp;comprises&nbsp;Houston proper and&nbsp;many small ...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 05 Jan 2023 21:25:11 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/77/Houston-SCADA-Water-Systems.jpeg" length="61279" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Overview:  Benefits fo SCADA Systems in the Petrochemical Industry</title>
+			<link>https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</guid>
+			<description><![CDATA[Petrochemical SCADA Efficiency Benefits SCADA's key benefit is the improvement of efficiency in the processes necessary for the petrochemical industry...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 20 Jul 2022 17:14:32 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/72/Houston-Petrochemical-SCADA.jpeg" length="42902" type="image/webp"/>
+		</item>
+		<item>
+			<title>A Valentine to Our Customers, Employees, and Vendors</title>
+			<link>https://www.blti.com/index.php/news-current-events/happy-valentine-s-day-to-our-customers-employees-and-v</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/happy-valentine-s-day-to-our-customers-employees-and-v</guid>
+			<description><![CDATA[&nbsp;Today is a special day for BLTI as it reminds us to take a moment and thank the most important people in BLTI's past, present, and future. Witho...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 14 Feb 2022 17:44:22 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/50/BLTI-Facility_Tomball_Control-Panels.png" length="1813730" type="image/png"/>
+		</item>
+		<item>
+			<title>Samsara Smart Instruments for Water &amp; Wastewater</title>
+			<link>https://www.blti.com/index.php/news-current-events/samsara-smart-instruments-for-water-wastewater</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/samsara-smart-instruments-for-water-wastewater</guid>
+			<description><![CDATA[Samsara is an easy-to-use platform designed to fully improve efficiency, safety and sustainability across all your operations of wastewater! What can ...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 10 Jan 2022 16:37:26 +0000</pubDate>
+		</item>
+		<item>
+			<title>Process Control System Integrator - Cybersecurity Risk Assessment</title>
+			<link>https://www.blti.com/index.php/news-current-events/process-control-system-integrator-cybersecurity-risk-assessment</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/process-control-system-integrator-cybersecurity-risk-assessment</guid>
+			<description><![CDATA[Cybersecurity risk assessments verify how the organization's security posture is designed and configured to reject attempts by different types of atta...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 06 Dec 2021 16:44:11 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/36/CyberSecurity_Risk_Assesment_SCADA_Compliance_Regulatory.jpg" length="162428" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>BLTI Becomes Value Added Reseller for Samsara - Wireless IoT Solutions for Industry</title>
+			<link>https://www.blti.com/index.php/news-current-events/blti-becomes-value-added-reseller-for-samsara-wireless-iot-solutions-for-industry</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/blti-becomes-value-added-reseller-for-samsara-wireless-iot-solutions-for-industry</guid>
+			<description><![CDATA[Tomball, TX - 1 September 2020 -&nbsp;BLTI (BL Technology, Inc.) is pleased to announce that we have established a relationship as a Value-Added Resel...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 01 Sep 2020 14:43:34 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

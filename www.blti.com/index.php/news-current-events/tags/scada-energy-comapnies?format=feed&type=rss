@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - SCADA Energy Comapnies</title>
+		<description><![CDATA[All blog entries tagged as SCADA Energy Comapnies]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/scada-energy-comapnies</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:16 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/scada-energy-comapnies?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Overview:  Benefits fo SCADA Systems in the Petrochemical Industry</title>
+			<link>https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</guid>
+			<description><![CDATA[Petrochemical SCADA Efficiency Benefits SCADA's key benefit is the improvement of efficiency in the processes necessary for the petrochemical industry...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 20 Jul 2022 17:14:32 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/72/Houston-Petrochemical-SCADA.jpeg" length="42902" type="image/webp"/>
+		</item>
+		<item>
+			<title>Using SCADA to Digitize the Texas Power Grid</title>
+			<link>https://www.blti.com/index.php/news-current-events/using-scada-to-digitize-the-texas-power-grid</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/using-scada-to-digitize-the-texas-power-grid</guid>
+			<description><![CDATA[Experts predict that the Bitcoin network's energy use in the United States and worldwide could increase significantly over the next five years, adding...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 08 Mar 2022 15:31:00 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/55/SCADA-Texas-Crypto-Mining.jpg" length="368391" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>SCADA Systems Improving Efficiencies for Energy Companies</title>
+			<link>https://www.blti.com/index.php/news-current-events/scada-systems-improving-efficiencies-for-energy-companies</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/scada-systems-improving-efficiencies-for-energy-companies</guid>
+			<description><![CDATA[&nbsp;SCADA Systems automating&nbsp;reporting for the energy industry In the past, if a company needed to manage many isolated oil and gas sites, they...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 27 Jan 2022 14:00:02 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/47/BLTIEnergySCADASystems.jpg" length="245376" type="image/jpeg"/>
+		</item>
+	</channel>
+</rss>

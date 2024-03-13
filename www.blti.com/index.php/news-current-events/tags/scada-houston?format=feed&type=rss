@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - SCADA Houston</title>
+		<description><![CDATA[All blog entries tagged as SCADA Houston]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/scada-houston</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:17 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/scada-houston?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Understanding Water &amp; Waste Water SCADA Systems</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-scada-systems</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-scada-systems</guid>
+			<description><![CDATA[Communities across the Houston area rely on getting clean water at an affordable price. This involves getting rid of all contaminants. Data is vital a...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 08 Aug 2022 16:42:06 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/74/Screen-Shot-2022-08-08-at-12.16.31-PM.png" length="673883" type="image/png"/>
+		</item>
+		<item>
+			<title>Using SCADA to Digitize the Texas Power Grid</title>
+			<link>https://www.blti.com/index.php/news-current-events/using-scada-to-digitize-the-texas-power-grid</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/using-scada-to-digitize-the-texas-power-grid</guid>
+			<description><![CDATA[Experts predict that the Bitcoin network's energy use in the United States and worldwide could increase significantly over the next five years, adding...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 08 Mar 2022 15:31:00 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/55/SCADA-Texas-Crypto-Mining.jpg" length="368391" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>SCADA Systems Improving Efficiencies for Energy Companies</title>
+			<link>https://www.blti.com/index.php/news-current-events/scada-systems-improving-efficiencies-for-energy-companies</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/scada-systems-improving-efficiencies-for-energy-companies</guid>
+			<description><![CDATA[&nbsp;SCADA Systems automating&nbsp;reporting for the energy industry In the past, if a company needed to manage many isolated oil and gas sites, they...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 27 Jan 2022 14:00:02 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/47/BLTIEnergySCADASystems.jpg" length="245376" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Understanding Water &amp; Wastewater Treatment SCADA Systems</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems</guid>
+			<description><![CDATA[It is crucial to provide clean and affordable water for members of your community by using efficient and precise wastewater and water monitoring syste...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 26 Jan 2022 19:06:58 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/45/SCADAWATER-HOUSTON.jpg" length="293951" type="image/jpeg"/>
+		</item>
+	</channel>
+</rss>

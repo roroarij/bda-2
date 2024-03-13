@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - Houston SCADA Integration</title>
+		<description><![CDATA[All blog entries tagged as Houston SCADA Integration]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/houston-scada-integration</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:11 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/houston-scada-integration?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>How SCADA Integrations Aid Texas Water Treatment Facilities</title>
+			<link>https://www.blti.com/index.php/news-current-events/how-scada-integrations-aid-texas-water-treatment-facilities</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/how-scada-integrations-aid-texas-water-treatment-facilities</guid>
+			<description><![CDATA[Water and wastewater treatment facilities throughout Texas face numerous challenges, including maintaining water quality, ensuring regulatory complian...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 28 Feb 2023 17:48:01 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/83/Screen-Shot-2023-02-28-at-11.47.23-AM.png" length="219449" type="image/png"/>
+		</item>
+		<item>
+			<title>Houston Area's Leader in Waste Water and Water Management SCADA Solutions</title>
+			<link>https://www.blti.com/index.php/news-current-events/houston-area-s-leader-in-waste-water-and-water-management-scada-solutions</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/houston-area-s-leader-in-waste-water-and-water-management-scada-solutions</guid>
+			<description><![CDATA[It is vital to ensure that your community has access to clean, affordable water. This can be done using effective and precise water and wastewater mon...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 03 Nov 2022 17:04:44 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/76/HoustonSCADA-Water-Managmeent.png" length="584160" type="image/png"/>
+		</item>
+		<item>
+			<title>Overview:  Benefits fo SCADA Systems in the Petrochemical Industry</title>
+			<link>https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</guid>
+			<description><![CDATA[Petrochemical SCADA Efficiency Benefits SCADA's key benefit is the improvement of efficiency in the processes necessary for the petrochemical industry...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 20 Jul 2022 17:14:32 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/72/Houston-Petrochemical-SCADA.jpeg" length="42902" type="image/webp"/>
+		</item>
+		<item>
+			<title>Scalable SCADA Solutions</title>
+			<link>https://www.blti.com/index.php/news-current-events/scalable-scada-solutions</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/scalable-scada-solutions</guid>
+			<description><![CDATA[Scalable SCADA Integrated Solutions BLTI specializes in the design, construction, and integration custom SCADA systems. This includes applications for...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 11 Jul 2022 17:59:40 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/69/HoustonSCADAIntegration.jpeg" length="39918" type="image/webp"/>
+		</item>
+	</channel>
+</rss>

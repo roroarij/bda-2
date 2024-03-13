@@ -1,0 +1,18 @@
+html,
+body {
+  background: #00568c;
+}
+a:focus {
+  outline: none;
+}
+img {
+  max-width: 100%;
+}
+.btn,
+button {
+  transition: all 0.4s ease-in-out 0s;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  -m-transition: all 0.4s ease-in-out 0s;
+  -ms-transition: all 0.4s ease-in-out 0s;
+}

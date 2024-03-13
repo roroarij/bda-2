@@ -1,0 +1,271 @@
+/* General
+================================================== */
+img{ max-width: 100%; }
+
+/*hide responsive menus*/
+#top-bar .selector,
+#navigation .selector { display: none; }
+
+
+/* Apply To All Responsive Layouts
+================================================== */
+@media only screen and (max-width: 800px) {
+
+	/*navigation top menu*/
+	#nav-wrap { position: relative; clear: both; top: 0; float: none; width: 100%; background-color: #2a2a2a; padding: 20px 10px; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
+	#navigation select { display: block; background: #2a2a2a url(images/responsive-drop-arrow.png) right center/5px 3px  no-repeat; width: 100%; font-weight: bold; -webkit-appearance:none; border: 1px solid #2a2a2a; padding: 0; color: #fff; height: 42px; }
+	#navigation select option { display: block; background:#f5f5f5; width: 100%; font-weight: normal; -webkit-appearance:none; border: 1px solid #2a2a2a; padding: 0; color: #171717; font-size: 12px; }
+	#navigation .selector option{ background:#f5f5f5; -webkit-appearance:none; padding: 0; bottom: 1px solid #2a2a2a; color: #171717; }
+	#navigation .selector, 
+	#navigation .selector span{ cursor: pointer !important; -webkit-font-smoothing:antialiased }
+	#navigation .selector, 
+	#navigation .selector *{ margin:0; padding:0 }
+	#navigation .selector select{ top:0px; left:0px; /* height: 45px */ }
+	#navigation .selector{ width: 100%; color: #fff; font-weight: bold; /* line-height: 45px; text-indent: 20px */ }
+	#navigation .selector{ /*height: 51px; width: 60px;*/ width: 100%; display:-moz-inline-box; display:inline-block; vertical-align:middle; zoom:1; *display:inline; cursor: pointer !important; position:relative; overflow:hidden; background: url(images/responsive-drop-arrow.png) right center no-repeat }
+	#navigation .selector select:focus{outline:0; }
+	#navigation .selector span{ display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap }
+	#navigation .selector select{ position:absolute; /*height:45px;*/ background:none; width:100%; font-family:Arial,sans-serif; font-size:12px; font-weight:normal; border:0 !important }
+
+		
+	/*display dropdown nav*/
+	#navigation .selector { display: inline-block; }
+	#navigation ul { display: none; }
+	
+
+}
+
+/* Apply To All Responsive Layouts
+================================================== */
+@media only screen and (max-width: 959px) {
+	
+	/*hide stuff*/
+	.flexslider-container .flex-caption{ display: none }
+	#related-posts .read-more{ display: none }
+	
+	/* Top */
+	#top .topleft { display: none; }
+	#top .topright { width: 100%; text-align: center; }
+	
+	/* Bottom Sidebar */
+	#bsidebar, #tsidebar { max-width: 95%; }
+	#bsidebar .box, #tsidebar .box { clear: both; float: none; margin: 0 auto 20px auto !important; width: 96% !important; }
+	
+	/* Footer Sidebar */
+	#footerwrap { padding-left: 0; }
+	#fsidebar .box { width: 96% !important; height: auto; clear: both; text-align: center; margin: 0 auto 20px auto !important; border: none; min-height: auto; float: none; }
+	
+	/* Sidebar */
+	#sidebar{ width: 100%; margin: 15px 0 0; padding: 25px 10px 0 10px; border-top: 4px solid #eee; border-left: none; border-right: none; } 
+	#sidebar .box { width: 100%; max-width: 307px; clear: both; float: none; margin: 0 auto 20px auto; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
+	
+	/* Main */
+	#main, .level1 #main, .level2 #main, .level3 #main { padding-left: 0; width: 100%; max-width: 100%; }
+	
+	#headerwrap { background-image: none; }
+	
+	#content { width: 100%; }
+	
+	ul#boxes { background: none !important; }
+	
+	#pageimage { display: none; }
+	#titlecontent { float: none; display: block; width: auto; max-width: inherit; padding: 0 10px; }
+	#pagetitle h1, .insidepagetitle { padding: 0 10px; }
+	#titlecontent h1 { padding: 0; }
+	
+	.postcontent, h1#single-title, #byline, .share { padding: 0 10px; }
+	
+	#hpcta { padding: 0 10px; }
+	.hpctacontent { float: none; width: auto; text-align: center; margin: 0 auto; }
+	a.hpctabtn { float: none; margin: 10px auto 0 auto; max-width: 300px; }
+	
+	ul#socials li, ul.socials li { float: none; display: inline;}
+	ul#socials li img, ul.socials li img  { float: none; }
+	#header-left, #header-right { width: 100%; float: none; clear: both; margin: 0 auto; }
+	#header-left .box, #header-right .box { float: none; clear: both; text-align: center; display: block; margin: 0 auto; }
+	#header-left ul.contact li, #header-right ul.contact li { margin: 0 auto; }
+	
+	.cmap #responsive-frame {
+	padding-bottom: 25%;
+	}
+	
+	#vaslider a { height: auto !important; }
+	
+	.srp-thumbnail-box { display: none !important; }
+	.srp-content-box { width: 100%; display: block !important; }
+	
+	ul.contact li.phone1, ul.contact li.phone2 { display: none !important; }
+	ul.contact li.mobile { display: block !important; }
+	#header-left ul.contact li.mobile, #header-right ul.contact li .mobile { display: inline-block !important; }
+	
+	.fixedmenuwrap { display: none !important; }
+}
+
+
+
+/* #Tablet (Portrait) = Design for a width of 730px
+================================================== */
+@media only screen and (min-width: 769px) and (max-width: 959px) {
+
+	body { background: none; }
+	
+	/*blog*/
+	#author-bio{ width: 355px }
+	
+	/*search*/
+	.search-entry-text{ width: 310px; }
+	
+	/*main*/
+	#main, .level1 #main, .level2 #main, .level3 #main { width: 100% }
+
+}
+
+
+
+/* Mobile (Portrait) = Design for a width of 280px
+================================================== */
+
+@media only screen and (max-width: 768px) {
+
+	/*body*/
+	body { background: none; }
+
+	/*hide stuff*/
+	.flexslider-container .flex-caption,
+	#services-sidebar{ display: none }
+	#top-search input[type=search]{ display:none; }
+	
+	/*caption*/
+	.bx-wrapper .bx-caption { font-size: 14px; width: 90%; }
+	
+	/*main*/
+	#main, .level1 #main, .level2 #main, .level3 #main { width: 100%; }
+	
+	/*header*/
+	#header-logo{ width: 100%; text-align: center; clear: both; }
+	#header-logo img{ float: none; }
+	
+	/*footer*/
+	#footer-left { clear: both; text-align: center; width: 100%; padding: 0;	}
+	#footer-right { clear: both; text-align: center; width: 100%; padding: 0; }
+	
+	/* Header Sidebar */
+	#hsidebar { width: 100%; clear: both; }
+	#hsidebar .box { width: 100%; text-align: center; clear: both; }
+	#phonenumber img.phonetopicon { display: none; }
+	#phonenumber { padding: 0; }
+	
+	/*boxes*/
+	#boxeswrap { background: none; padding-bottom: 0; border-radius: 0; margin-top: 0; margin-bottom: 0; }
+	ul#boxes { margin: 0 auto; }
+	ul#boxes li { display: block; float: none !important; width: 100% !important; height: auto; margin: 10px 0 !important; padding: 0; border-radius: 0; border-left: 0; border-right: 0; border-bottom: 1px solid #aaa; border-top: 1px solid #aaa; background-color: #eee; }
+	ul#boxes li a { color: #2a2a2a; }
+	ul#boxes li a img { display: none; }
+	ul#boxes li a span { width: 100%; float: none !important; text-align: center !important; }
+	
+	/*titles*/
+	#page-heading h1, #page-heading h2{ width: 100% }
+	#single-nav{ position: inherit; text-align: center; margin-top: 10px; margin-left: -7px }
+	
+	/*blog*/
+	#related-posts .alignleft{ max-width: 30% }
+	.related-entry-excerpt{ display: none }
+	#author-bio{ width: 135px  }
+	
+	/*search*/
+	.search-entry-text{ width: 100%; margin-top: 20px;  }
+	
+	/*footer*/
+	#footer-bottom, #footer-menu{ text-align: center }
+	#footer-menu{ margin-top: 5px }
+	
+	/*comments*/
+	.children { margin: 30px 0 0; }
+	.children li.depth-2,
+	.children li.depth-3,
+	.children li.depth-4,
+	.children li.depth-5,
+	.children li.depth-6,
+	.children li.depth-7,
+	.children li.depth-8,
+	.children li.depth-9,
+	.children li.depth-10 { margin: 0 }
+	
+	#phonenumber span.phonetop1, #phonenumber span.phonetop2, #phonenumber span.phonetop3 { 
+	max-width: 230px;
+	padding: 10px 20px;
+	margin: 0 auto 5px auto;
+	color: #fff;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	background-color: #2a2a2a;
+	}
+	#phonenumber span.phonetop1 a, #phonenumber span.phonetop2 a, #phonenumber span.phonetop3 a {
+	color: #fff;
+	display: block;
+	width: 100%;
+	height: 100%;
+	}
+	#phonenumber span.phonetop1 a:before, #phonenumber span.phonetop2 a:before, #phonenumber span.phonetop3 a:before {
+	content:"Call ";
+	display: block;
+	margin-bottom: 5px;
+	}
+	.partner .pmiddle .text { clear: both; width: 100%; }
+	.partner .pmiddle .image { clear: both; text-align: center; margin: 0 auto; float: none; }
+	.partner .pmiddle { padding: 0; width: 90%; margin: 0 auto;}
+	
+	#main .contact .contacttext,
+	#main .contact .contactmap { width: 100%; clear: both; text-align: center; }
+	
+	.wpb_widgetised_column { margin-top: 15px; padding-top: 25px; padding-left: 0; border-top: 4px solid #eee; border-left: none; border-right: none; } 
+	.wpb_widgetised_column .box { width: 100%; max-width: 307px; clear: both; float: none !important; margin: 0 auto 20px auto !important;}
+	
+	.clearmobile {
+    display: block !important;
+    float: none !important;
+    clear: both !important;
+    margin: 10px auto !important;
+  }
+	
+}
+
+
+/* Mobile (Landscape) = Design for a width of 440px
+================================================== */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	/*blog*/
+	#author-bio{ width: 295px }
+	.related-entry-excerpt{ display: block }
+	
+	/*search*/
+	.search-entry-text{ width: 255px; margin-top: 0; }
+
+}
+@media only screen and (max-width: 479px) {
+
+	/* Single Image in Blog Post */
+	.single .postcontent img,
+	.single .postcontent img.size-full,
+	.single .postcontent img[class*="align"],
+	.single .postcontent img[class*="wp-image-"]	{
+		clear: both;
+		float: none;
+		display: block;
+		margin: 0 auto 10px auto;
+	}
+
+	.single .postcontent img.hide-video-img,
+	.post-category-tech-tip-videos .thumbnail-wrap img {
+		display: none !important;
+	}
+	
+	.cmap #responsive-frame {
+		padding-bottom: 56.25%;
+	}
+	
+		.blogentry p { overflow: visible; }
+}

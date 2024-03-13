@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - Samsara</title>
+		<description><![CDATA[All blog entries tagged as Samsara]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/samsara</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:16 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/samsara?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Samsara Smart Instruments for Water &amp; Wastewater</title>
+			<link>https://www.blti.com/index.php/news-current-events/samsara-smart-instruments-for-water-wastewater</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/samsara-smart-instruments-for-water-wastewater</guid>
+			<description><![CDATA[Samsara is an easy-to-use platform designed to fully improve efficiency, safety and sustainability across all your operations of wastewater! What can ...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 10 Jan 2022 16:37:26 +0000</pubDate>
+		</item>
+		<item>
+			<title>BLTI Becomes Value Added Reseller for Samsara - Wireless IoT Solutions for Industry</title>
+			<link>https://www.blti.com/index.php/news-current-events/blti-becomes-value-added-reseller-for-samsara-wireless-iot-solutions-for-industry</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/blti-becomes-value-added-reseller-for-samsara-wireless-iot-solutions-for-industry</guid>
+			<description><![CDATA[Tomball, TX - 1 September 2020 -&nbsp;BLTI (BL Technology, Inc.) is pleased to announce that we have established a relationship as a Value-Added Resel...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 01 Sep 2020 14:43:34 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

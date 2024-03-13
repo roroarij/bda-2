@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - supplychainissues</title>
+		<description><![CDATA[All blog entries tagged as supplychainissues]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/supplychainissues</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:20 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/supplychainissues?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Control Panel Supply Chain Demands/Issues</title>
+			<link>https://www.blti.com/index.php/news-current-events/supply-chain-demand</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/supply-chain-demand</guid>
+			<description><![CDATA[Companies around the country are experiencing global supply chain issues. Sadly, the global manufacturer's slowdowns are a shortcoming of the COVID -1...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 28 Feb 2022 19:21:07 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/53/BLTI-282_20220228-194457_1.jpg" length="698118" type="image/jpeg"/>
+		</item>
+	</channel>
+</rss>

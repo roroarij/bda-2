@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - Houston Wastewater SCADA</title>
+		<description><![CDATA[All blog entries tagged as Houston Wastewater SCADA]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/houston-wastewater-scada</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:12 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/houston-wastewater-scada?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>How SCADA Integrations Aid Texas Water Treatment Facilities</title>
+			<link>https://www.blti.com/index.php/news-current-events/how-scada-integrations-aid-texas-water-treatment-facilities</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/how-scada-integrations-aid-texas-water-treatment-facilities</guid>
+			<description><![CDATA[Water and wastewater treatment facilities throughout Texas face numerous challenges, including maintaining water quality, ensuring regulatory complian...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 28 Feb 2023 17:48:01 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/83/Screen-Shot-2023-02-28-at-11.47.23-AM.png" length="219449" type="image/png"/>
+		</item>
+		<item>
+			<title>Understanding Water &amp; Waste Water SCADA Systems</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-scada-systems</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-scada-systems</guid>
+			<description><![CDATA[Communities across the Houston area rely on getting clean water at an affordable price. This involves getting rid of all contaminants. Data is vital a...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 08 Aug 2022 16:42:06 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/74/Screen-Shot-2022-08-08-at-12.16.31-PM.png" length="673883" type="image/png"/>
+		</item>
+	</channel>
+</rss>

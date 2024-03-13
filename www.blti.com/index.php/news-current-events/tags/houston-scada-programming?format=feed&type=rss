@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - Houston SCADA Programming</title>
+		<description><![CDATA[All blog entries tagged as Houston SCADA Programming]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/houston-scada-programming</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:11 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/houston-scada-programming?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>How SCADA Integrations Aid Texas Water Treatment Facilities</title>
+			<link>https://www.blti.com/index.php/news-current-events/how-scada-integrations-aid-texas-water-treatment-facilities</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/how-scada-integrations-aid-texas-water-treatment-facilities</guid>
+			<description><![CDATA[Water and wastewater treatment facilities throughout Texas face numerous challenges, including maintaining water quality, ensuring regulatory complian...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 28 Feb 2023 17:48:01 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/83/Screen-Shot-2023-02-28-at-11.47.23-AM.png" length="219449" type="image/png"/>
+		</item>
+		<item>
+			<title>Houston Area's Leader in Waste Water and Water Management SCADA Solutions</title>
+			<link>https://www.blti.com/index.php/news-current-events/houston-area-s-leader-in-waste-water-and-water-management-scada-solutions</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/houston-area-s-leader-in-waste-water-and-water-management-scada-solutions</guid>
+			<description><![CDATA[It is vital to ensure that your community has access to clean, affordable water. This can be done using effective and precise water and wastewater mon...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 03 Nov 2022 17:04:44 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/76/HoustonSCADA-Water-Managmeent.png" length="584160" type="image/png"/>
+		</item>
+		<item>
+			<title>Houston SCADA System Maintenace Checklist</title>
+			<link>https://www.blti.com/index.php/news-current-events/houston-scada-system-maintenace-checklist</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/houston-scada-system-maintenace-checklist</guid>
+			<description><![CDATA[Houston SCADA Systems Audit Systems Many water and wastewater treatment plants located in the Houston area&nbsp;require the use of supervisory control...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 02 Feb 2022 20:26:27 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/49/HoustonSCADASystems.jpg" length="255677" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Understanding Water &amp; Wastewater Treatment SCADA Systems</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems</guid>
+			<description><![CDATA[It is crucial to provide clean and affordable water for members of your community by using efficient and precise wastewater and water monitoring syste...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 26 Jan 2022 19:06:58 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/45/SCADAWATER-HOUSTON.jpg" length="293951" type="image/jpeg"/>
+		</item>
+	</channel>
+</rss>

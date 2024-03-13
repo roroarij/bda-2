@@ -1,0 +1,452 @@
+<!doctype html>
+<html amp lang="en-GB" >
+	<head>
+		<meta charset="utf-8">
+		<base href=""/>
+				<script async src="https://cdn.ampproject.org/v0.js"></script>
+		<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+
+					<script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+									<script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+			<script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+		
+		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+
+														
+		
+		<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+		<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+		<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+
+		<title>BLTI - News & Current Events - Design Approach to Intercom Public Address (PA) System</title>
+		<link rel="canonical" href="design-approach-to-intercom-public-address-pa-system.html" />
+		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+		<link href="https://fonts.googleapis.com/css?family=Heebo" rel="stylesheet">
+		<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "BlogPosting",
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": "https://www.blti.com/index.php/news-current-events/design-approach-to-intercom-public-address-pa-system"
+			},
+			"headline": "Design Approach to Intercom Public Address (PA) System",
+			"datePublished": "2021-01-12T20:11:38+00:00",
+			"dateModified": "2022-02-14T19:51:14+00:00",
+			"author": {
+				"@type": "Person",
+				"name": "Candace"
+			},
+			"image": {
+				"@type": "ImageObject",
+				"url": "https://www.blti.com/images/easyblog_articles/19/b2ap3_amp_SoundLevels.png"
+			},
+			"publisher": {
+				"@type": "Organization",
+				"name": "BLTI",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "https://www.blti.com/templates/t3_bs3_blank/html/com_easyblog/email/logo.png",
+					"width": "297",
+					"height": "129"
+				}
+							}
+		}
+		</script>
+
+		<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+		<style amp-custom>
+body {
+	font-family: 'Heebo', sans-serif;
+	font-size: 18px;
+	line-height: 1.6;
+}
+header {
+	background-color: #222;
+	color: #fff;
+	padding: 10px;
+	position: relative;
+	
+}
+.heading > h1 > a {
+	text-decoration: none;
+	color: #1b69b6;
+}
+.toggle-btn {
+	position: absolute;
+	color: #fff;
+	top: 8px;
+	right: 8px;}
+
+h1 {
+	font-size: 30px;
+}
+h2 {
+	font-size: 26px;
+}
+h3 {
+	font-size: 22px;
+}
+h4 {
+	font-size: 20px;
+}
+h1, h2, h3, h4 {
+	margin-bottom: 10px;
+	padding: 0 0 10px;
+}
+
+p {	
+	color: #222;
+	background-color: #fff;
+	margin-bottom: 10px;
+	padding: 0 0 10px;
+}
+hr {
+	margin-top: 18px;
+	margin-bottom: 18px;
+	border: 0;
+	border-top: 1px solid #eeeeee;
+}
+table {
+	table-layout: fixed;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 16px;
+}
+.table td {
+	vertical-align: top;
+	padding: 6px;
+}
+.table-bordered {
+	border: 1px solid #ddd;
+}
+.table-bordered > thead > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > th,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > th,
+.table-bordered > tfoot > tr > td {
+  border: 1px solid #ddd;
+}
+.table-bordered > thead > tr > th,
+.table-bordered > thead > tr > td {
+  border-bottom-width: 2px;
+}
+.table-striped > tbody > tr:nth-child(odd) > td,
+.table-striped > tbody > tr:nth-child(odd) > th {
+  background-color: #f9f9f9;
+}
+amp-sidebar {
+	width: 150px;
+	position: relative;
+	background: #fff;
+	
+}
+amp-sidebar .close-btn {
+	font-size: 30px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 40px;
+	height: 30px;
+	line-height: 1;
+	padding: 0;
+}
+.sidebar-nav {
+	position: relative;
+	top: 40px;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	border-top: 1px solid #ccc;
+}
+nav li {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+nav li a {
+	padding: 10px;
+	text-decoration: none;
+	color: #666666;
+	background: #fff;
+	border-bottom: 1px solid #ccc;
+	display: block;
+	font-size: 14px;
+}
+
+.blog-content {
+	padding: 16px;
+}
+.blog-meta {
+	font-size: 13px;
+	padding:  16px;
+	color: #666;
+	border-bottom: 1px solid #ccc;
+}
+.blog-meta a {
+	text-decoration: none;
+	color: #1b69b6;
+}
+.blog-meta a:hover,
+.blog-meta a:focus {
+	color: #134a81;
+}
+.blog-meta__author {
+	margin-bottom: 8px;
+}
+
+.carousel .slide > amp-img > img {
+	object-fit: contain;
+}
+
+.related {
+	background-color: #f5f5f5;
+	margin: 10px;
+	display: block;
+	color: #111;
+	height: 75px;
+	padding: 0;
+	text-decoration: none;
+	display: flex;
+}
+.related__img {
+
+}
+.related__body {
+	padding: 10px;
+	flex: 0 1 auto;
+	display: flex;
+	overflow: hidden;
+	width: 100%;
+}
+.related__title {
+	display: block;
+	overflow: hidden;
+
+}
+.related__date {
+	color: #888;
+	font-size: 13px;
+}
+.related__link {
+	text-decoration: none;
+	display: block;
+	align-self: center;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	color: #1155CC;
+}
+
+.btn-eb {
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+	background-image: none;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.428571429;
+	border-radius: 4px;
+	text-decoration: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+
+	color: #333;
+	background-color: #fff;
+	border-color: #ccc;
+}
+.btn-eb-comment {
+	margin: 0 16px 16px;
+	display: block;
+}
+
+
+</style>
+	</head>
+	<body>
+
+		
+		<header>
+			<span class="brand-logo">
+				News & Current Events			</span>
+			<button on="tap:sidebar.toggle" class="toggle-btn" title="Toggle Sidebar" >
+				☰
+			</button>
+		</header>
+
+			<amp-sidebar id="sidebar" layout="nodisplay" side="right">
+		<button class="close-btn" on="tap:sidebar.toggle" type="reset">×</button>
+		<div class="sidebar-nav">
+			<nav>
+				<ul>
+										<li>
+						<a href="../../index.php.html">Home</a>
+					</li>
+										<li>
+						<a href="../company.html">Company</a>
+					</li>
+										<li>
+						<a href="../company.html">About Us</a>
+					</li>
+										<li>
+						<a href="../company/certifications-memberships.html">Certifications & Memberships</a>
+					</li>
+										<li>
+						<a href="../company/certifications-memberships/certifications.html">Certifications</a>
+					</li>
+										<li>
+						<a href="../company/certifications-memberships/memberships.html">Memberships</a>
+					</li>
+										<li>
+						<a href="../company/supported-products.html">Supported Products</a>
+					</li>
+										<li>
+						<a href="../solutions.html">Solutions</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls.html">Instrumentation & Controls</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/engineering-design.html">Engineering & Design</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/programming-capabilities.html">Programming Capabilities</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/control-panels.html">Control Panels</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/instrumentation.html">Instrumentation</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/onsite-services.html">Onsite Services</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/samsara.html">Samsara</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/scada-systems.html">SCADA Systems</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions.html">Life Safety</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/fire-alarm-systems.html">Fire Alarm Systems</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/mass-notification.html">Mass Notification</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/sound-reinforcement.html">Sound Reinforcement</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/inspection.html">Inspection</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/monitoring.html">Monitoring</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/intercom.html">Intercom</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/bi-directional-amplifiers.html">Bi-Directional Amplifiers</a>
+					</li>
+										<li>
+						<a href="../solutions/security-solutions.html">Security</a>
+					</li>
+										<li>
+						<a href="../solutions/security-solutions/access-control.html">Access Control</a>
+					</li>
+										<li>
+						<a href="../solutions/security-solutions/surveillance.html">Surveillance</a>
+					</li>
+										<li>
+						<a href="../solutions/security-solutions/intrusion-alarm-monitoring.html">Intrusion Alarm & Monitoring</a>
+					</li>
+										<li>
+						<a href="../solutions/security-solutions/shooter-detection.html">Shooter Detection</a>
+					</li>
+										<li>
+						<a href="https://blti.bamboohr.com/jobs/">Careers</a>
+					</li>
+										<li>
+						<a href="../news-current-events.html">Culture & Current Events</a>
+					</li>
+										<li>
+						<a href="../contact-us.html">Contact Us</a>
+					</li>
+									</ul>
+			</nav>
+		</div>
+	</amp-sidebar>
+
+		
+		<div class="blog-meta">
+			<div class="blog-meta__author">
+									By <a href="blogger/candace.html">Candace</a>
+								on Thursday, January 07, 2021			</div>
+
+						<div class="blog-meta__cat">
+				Category: <a href="categories/BLTI.html">BLTI</a>
+			</div>
+					</div>
+
+		<div class="blog-content">
+			<div class="heading">
+				<h1><a href="design-approach-to-intercom-public-address-pa-system.html">Design Approach to Intercom Public Address (PA) System</a></h1>
+			</div>
+
+			
+			<p>​<span>A design approach to a PA system encompasses the available technologies and a project-specific project-specific engineered layout. This requires a review of the plan drawings to confirm coverage/functionality and a load calculation of the design circuits thus assuring that the expected sound level is realized at each location.</span></p><p>When reviewing the plan drawings, it is important to understand the differences in performance provided by the different speaker types. The more commonly used speakers are speaker/transformer/baffle assemblies, usually a ceiling mount unit, and the horn speaker type also called a loudspeaker. The horn speaker is normally applied to common areas with high occupancy and outdoor use. Two major differences in performance can be seen in the speakers. Possibly the more important difference is in response rate; the frequency response in the normal speech range is significantly better on the ceiling mount type speaker. This basically means that typical announcements come thru as a more intelligible speech pattern. The other major difference is in the audio output performance. In this, the horn speaker can produce up to 15 watts of audio power while the ceiling mount speaker can produce a maximum of 5 watts. The power rating on the speakers translates directly to sound levels where more power means louder sound.</p><p>As noted, the typical mounting of the two-general type of speakers differs. The more common ceiling type speaker is offered in a 2x2 drop-in ceiling tile and also as a pendant back-can configuration for mounting in hard ceilings; either recessed in the ceiling or suspended on a conduit box. The horn speaker is often recessed into a wall but does have a surface mount option. The horn speaker is not easily ceiling mounted. </p><p>Once the type of speakers in the layout is identified, the sound level has to be established. Because the sound level is directly related to power, louder overall building requirements mean more power must be made available thru the PA system. The typical measurement for sound pressure is the dB scale. The OSHA Sound Level chart is used to establish a baseline with the understanding that the scale is for sustained sound levels and not short announcements.</p><p>A typical scale is as follows:</p><amp-img width="518" height="683" layout="responsive" src="images/easyblog_articles/19/b2ap3_large_SoundLevels.png"></amp-img>
+			<p>       Allowable exposure to the levels are as follows: </p>		<amp-img width="792" height="549" layout="responsive" src="images/easyblog_articles/19/b2ap3_large_ExchangeRateStandards.png"></amp-img>
+			<p>&nbsp;       From the above, a value of 80 dB is used for a typical classroom, 91 dB for hallways, and 105 dB for horn speakers. After an audible power value is placed on the speakers, a power matrix is created which represents the limits that a PA output card and amplifiers can supply as well as defining the maximum speakers that can be "strung" together…placed in one common circuit. An example of the power matrix is shown below:</p>		<amp-img width="1188" height="254" layout="responsive" src="images/easyblog_articles/19/b2ap3_large_Table1.png"></amp-img>
+			<p>&nbsp;<span>This chart represents a PA system with 18 output cards, each card having 25 output ports and a maximum capacity of 50 watts per card. Note that this system also includes an RTU; a large capacity output module.</span></p><p>Two considerations are accounted for when assigning output ports:</p> <ul> <li>Maintaining the load per card at below 80%, if possible, but always below 100%. Further evaluation is given to those cards that exceed 80%</li> <li>Grouping of PA zones/areas of the building within the same output cards</li> </ul> <p>Load assignments to ports are based on the number of speakers in each circuit. This is symbolized by riser diagrams. The riser diagram is a representation of how an output channel will provide power from the port thru each terminal block down to the speaker.</p><p>An example is shown below:</p>		<amp-img width="1071" height="387" layout="responsive" src="images/easyblog_articles/19/b2ap3_large_ExamplePAApproach.png"></amp-img>
+			<p>Once the power assignments are allocated, the total power (watts) can be calculated, and thus the number of amplifiers required to meet the listed load.</p><p>It is important to note that each output port has a maximum capacity. As such, the matrix prevents overloading any one port, the individual card or reaching the limits of assigned amplifiers to respective cards. High loads can be assigned to high output ports and, where needed, space can be made available for future expansion by assigning expected values to the associated ports.</p><p>Fieldwork is also simplified as the speaker assignments are engineered to the respective terminal blocks. An example of the expected wiring is shown below.</p>		<amp-img width="1159" height="526" layout="responsive" src="images/easyblog_articles/19/b2ap3_large_MockFloorPlan.png"></amp-img>
+			<p>With this approach, field wiring, testing, and troubleshooting can be traced down to specific circuits thus eliminating any guesswork as to where the tie point might be.</p><p>The end result is a fully functional system meeting the intended sound levels of each area.</p>		
+												<div class="blog-social">
+						<amp-social-share type="email" width="45" height="33"></amp-social-share>
+
+													<amp-social-share type="facebook" data-param-app_id="" width="45" height="33"></amp-social-share>
+						
+													<amp-social-share type="twitter" width="45" height="33"></amp-social-share>
+						
+													<amp-social-share type="linkedin" width="45" height="33"></amp-social-share>
+						
+						
+						<amp-social-share type="whatsapp" data-share-endpoint="whatsapp://send" data-param-text="Check out this article: TITLE - Design Approach to Intercom Public Address (PA) System" width="45" height="33"></amp-social-share>
+					</div>
+									</div>
+
+					<h4>Related Posts</h4>
+			<amp-list width="300" height="75" layout="responsive" src="https://www.blti.com/index.php/news-current-events/design-approach-to-intercom-public-address-pa-system?layout=related&format=json">
+				<template type="amp-mustache">
+					<div class="related">
+						<div class="related__img">
+							<a class="related__link" href="https://www.blti.com/{{url}}">
+								<amp-img width="101" height="75" src="{{thumbnail}}"></amp-img>
+							</a>
+						</div>
+						<div class="related__body">
+							<a class="related__link" href="https://www.blti.com/{{url}}">
+								<span class="related__title">{{title}}</span>
+							</a>
+						</div>
+					</div>
+				</template>
+			</amp-list>
+		
+
+		
+		
+	</body>
+</html>

@@ -1,0 +1,12 @@
+h1.article-title,
+h1.catTitle,
+h1.itemTitle,
+h1.eb-brand-name {
+  font-size: 40px !important;
+  margin-top: 0 !important;
+  margin-bottom: 12px !important;
+  line-height: inherit !important;
+}
+h3.module-title {
+  color: #00568c;
+}

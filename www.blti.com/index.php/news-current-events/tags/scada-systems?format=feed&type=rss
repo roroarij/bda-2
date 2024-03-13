@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - SCADA Systems</title>
+		<description><![CDATA[All blog entries tagged as SCADA Systems]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/scada-systems</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:17 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/scada-systems?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Texas' Water Treatment Systems Utilizing SCADA</title>
+			<link>https://www.blti.com/index.php/news-current-events/texas-water-treatment-systems-utilizing-scada</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/texas-water-treatment-systems-utilizing-scada</guid>
+			<description><![CDATA[&nbsp;Supervisory Control and Data Acquisition (SCADA) systems have become increasingly popular in Texas's water and wastewater treatment industry. Th...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 23 Jan 2023 16:46:30 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/78/Wastewater-Treatment-SCADA-BLTI.jpg" length="112563" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Overview:  Benefits fo SCADA Systems in the Petrochemical Industry</title>
+			<link>https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</guid>
+			<description><![CDATA[Petrochemical SCADA Efficiency Benefits SCADA's key benefit is the improvement of efficiency in the processes necessary for the petrochemical industry...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 20 Jul 2022 17:14:32 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/72/Houston-Petrochemical-SCADA.jpeg" length="42902" type="image/webp"/>
+		</item>
+		<item>
+			<title>Scalable SCADA Solutions</title>
+			<link>https://www.blti.com/index.php/news-current-events/scalable-scada-solutions</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/scalable-scada-solutions</guid>
+			<description><![CDATA[Scalable SCADA Integrated Solutions BLTI specializes in the design, construction, and integration custom SCADA systems. This includes applications for...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 11 Jul 2022 17:59:40 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/69/HoustonSCADAIntegration.jpeg" length="39918" type="image/webp"/>
+		</item>
+	</channel>
+</rss>

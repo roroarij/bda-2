@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - SCADA Water Systems</title>
+		<description><![CDATA[All blog entries tagged as SCADA Water Systems]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/scada-water-systems</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:18 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/scada-water-systems?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Understanding SCADA uses for Water Treatment Facilities</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-scada-uses-for-water-treatment-facilities</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-scada-uses-for-water-treatment-facilities</guid>
+			<description><![CDATA[Houston is one of the largest metroplexes in the United States.&nbsp; The Greater Houston area&nbsp;comprises&nbsp;Houston proper and&nbsp;many small ...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 05 Jan 2023 21:25:11 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/77/Houston-SCADA-Water-Systems.jpeg" length="61279" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Understanding Water &amp; Wastewater Treatment SCADA Systems</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems</guid>
+			<description><![CDATA[It is crucial to provide clean and affordable water for members of your community by using efficient and precise wastewater and water monitoring syste...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 26 Jan 2022 19:06:58 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/45/SCADAWATER-HOUSTON.jpg" length="293951" type="image/jpeg"/>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+#userForm select,
+#userForm textarea,
+#userForm input[type="text"],
+#userForm input[type="password"],
+#userForm input[type="datetime"],
+#userForm input[type="datetime-local"],
+#userForm input[type="date"],
+#userForm input[type="month"],
+#userForm input[type="time"],
+#userForm input[type="week"],
+#userForm input[type="number"],
+#userForm input[type="email"],
+#userForm input[type="url"],
+#userForm input[type="search"],
+#userForm input[type="tel"],
+#userForm input[type="color"],
+#userForm .inputbox {
+  background: #edecec;
+  border: 0;
+  height: 100%;
+  width: 100%;
+}
+#userForm .rsform-block-recaptcha label {
+  display: none;
+}
+#userForm .rsform-block-recaptcha #g-recaptcha-28 > div {
+  display: block;
+  margin: 0 auto;
+}
+#userForm button {
+  background: #c41230;
+  border: 1px solid #c41230;
+  color: #ffffff;
+  display: block;
+  margin: 0 auto;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+#userForm button:hover {
+  background: #950e25;
+}
+#spotlight-4-wrap #userForm label,
+.view-item.contact #userForm label {
+  display: none;
+}
+#spotlight-4-wrap #userForm .formControls,
+.view-item.contact #userForm .formControls {
+  width: 100%;
+}

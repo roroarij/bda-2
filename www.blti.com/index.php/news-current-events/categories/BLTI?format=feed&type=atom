@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">BLTI - BLTI</title>
+	<subtitle type="text">Blog entries categorized under BLTI</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.blti.com"/>
+	<id>https://www.blti.com/index.php/news-current-events/categories/BLTI</id>
+	<updated>2024-03-13T01:09:09+00:00</updated>
+	<generator>MYOB</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.blti.com/index.php/news-current-events/categories/BLTI?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Five Benefits of Utilizing SCADA for Water Treatment Plants</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/five-benefits-of-utilizing-scada-for-water-treatment-plants"/>
+		<published>2023-04-06T19:01:21+00:00</published>
+		<updated>2023-04-06T19:01:21+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/five-benefits-of-utilizing-scada-for-water-treatment-plants</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">Water treatment plants are critical facilities that ensure clean and safe drinking water for the public. These complex plants require precise monitori...</summary>
+		<content type="html">Water treatment plants are critical facilities that ensure clean and safe drinking water for the public. These complex plants require precise monitori...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>How SCADA Integrations Aid Texas Water Treatment Facilities</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/how-scada-integrations-aid-texas-water-treatment-facilities"/>
+		<published>2023-02-28T17:48:01+00:00</published>
+		<updated>2023-02-28T17:48:01+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/how-scada-integrations-aid-texas-water-treatment-facilities</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">Water and wastewater treatment facilities throughout Texas face numerous challenges, including maintaining water quality, ensuring regulatory complian...</summary>
+		<content type="html">Water and wastewater treatment facilities throughout Texas face numerous challenges, including maintaining water quality, ensuring regulatory complian...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/83/Screen-Shot-2023-02-28-at-11.47.23-AM.png" type="image/png"  length="219449" />
+	</entry>
+	<entry>
+		<title>Texas' Water Treatment Systems Utilizing SCADA</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/texas-water-treatment-systems-utilizing-scada"/>
+		<published>2023-01-23T16:46:30+00:00</published>
+		<updated>2023-01-23T16:46:30+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/texas-water-treatment-systems-utilizing-scada</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">&amp;nbsp;Supervisory Control and Data Acquisition (SCADA) systems have become increasingly popular in Texas's water and wastewater treatment industry. Th...</summary>
+		<content type="html">&amp;nbsp;Supervisory Control and Data Acquisition (SCADA) systems have become increasingly popular in Texas's water and wastewater treatment industry. Th...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/78/Wastewater-Treatment-SCADA-BLTI.jpg" type="image/jpeg"  length="112563" />
+	</entry>
+	<entry>
+		<title>Understanding SCADA uses for Water Treatment Facilities</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/understanding-scada-uses-for-water-treatment-facilities"/>
+		<published>2023-01-05T21:25:11+00:00</published>
+		<updated>2023-01-05T21:25:11+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/understanding-scada-uses-for-water-treatment-facilities</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">Houston is one of the largest metroplexes in the United States.&amp;nbsp; The Greater Houston area&amp;nbsp;comprises&amp;nbsp;Houston proper and&amp;nbsp;many small ...</summary>
+		<content type="html">Houston is one of the largest metroplexes in the United States.&amp;nbsp; The Greater Houston area&amp;nbsp;comprises&amp;nbsp;Houston proper and&amp;nbsp;many small ...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/77/Houston-SCADA-Water-Systems.jpeg" type="image/jpeg"  length="61279" />
+	</entry>
+	<entry>
+		<title>Houston Area's Leader in Waste Water and Water Management SCADA Solutions</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/houston-area-s-leader-in-waste-water-and-water-management-scada-solutions"/>
+		<published>2022-11-03T17:04:44+00:00</published>
+		<updated>2022-11-03T17:04:44+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/houston-area-s-leader-in-waste-water-and-water-management-scada-solutions</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">It is vital to ensure that your community has access to clean, affordable water. This can be done using effective and precise water and wastewater mon...</summary>
+		<content type="html">It is vital to ensure that your community has access to clean, affordable water. This can be done using effective and precise water and wastewater mon...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/76/HoustonSCADA-Water-Managmeent.png" type="image/png"  length="584160" />
+	</entry>
+	<entry>
+		<title>Clean Water and SCADA Integrations</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/clean-water-and-scada-integrations"/>
+		<published>2022-10-25T20:19:33+00:00</published>
+		<updated>2022-10-25T20:19:33+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/clean-water-and-scada-integrations</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">The greater Houston area is one of the largest growing metroplexes in the country; with population growth, infrastructure systems such as water and wa...</summary>
+		<content type="html">The greater Houston area is one of the largest growing metroplexes in the country; with population growth, infrastructure systems such as water and wa...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/75/Houston-SCADA-Water-Treatment.png" type="image/png"  length="582350" />
+	</entry>
+	<entry>
+		<title>Understanding Water &amp; Waste Water SCADA Systems</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-scada-systems"/>
+		<published>2022-08-08T16:42:06+00:00</published>
+		<updated>2022-08-08T16:42:06+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-scada-systems</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">Communities across the Houston area rely on getting clean water at an affordable price. This involves getting rid of all contaminants. Data is vital a...</summary>
+		<content type="html">Communities across the Houston area rely on getting clean water at an affordable price. This involves getting rid of all contaminants. Data is vital a...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/74/Screen-Shot-2022-08-08-at-12.16.31-PM.png" type="image/png"  length="673883" />
+	</entry>
+	<entry>
+		<title>Overview:  Benefits fo SCADA Systems in the Petrochemical Industry</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry"/>
+		<published>2022-07-20T17:14:32+00:00</published>
+		<updated>2022-07-20T17:14:32+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">Petrochemical SCADA Efficiency Benefits SCADA's key benefit is the improvement of efficiency in the processes necessary for the petrochemical industry...</summary>
+		<content type="html">Petrochemical SCADA Efficiency Benefits SCADA's key benefit is the improvement of efficiency in the processes necessary for the petrochemical industry...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/72/Houston-Petrochemical-SCADA.jpeg" type="image/webp"  length="42902" />
+	</entry>
+	<entry>
+		<title>Scalable SCADA Solutions</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/scalable-scada-solutions"/>
+		<published>2022-07-11T17:59:40+00:00</published>
+		<updated>2022-07-11T17:59:40+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/scalable-scada-solutions</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">Scalable SCADA Integrated Solutions BLTI specializes in the design, construction, and integration custom SCADA systems. This includes applications for...</summary>
+		<content type="html">Scalable SCADA Integrated Solutions BLTI specializes in the design, construction, and integration custom SCADA systems. This includes applications for...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/69/HoustonSCADAIntegration.jpeg" type="image/webp"  length="39918" />
+	</entry>
+	<entry>
+		<title>Houston Fire Alarm &amp; Systems Planning</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/houston-fire-alarm-systems-planning"/>
+		<published>2022-04-19T16:28:34+00:00</published>
+		<updated>2022-04-19T16:28:34+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/houston-fire-alarm-systems-planning</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">Houston Fire Alarm Planning &amp;amp; InstallationFire System Planning A fire plan is required for new installations in the Greater Houston Area. BLTI wil...</summary>
+		<content type="html">Houston Fire Alarm Planning &amp;amp; InstallationFire System Planning A fire plan is required for new installations in the Greater Houston Area. BLTI wil...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/67/HoustonFirealarm.jpg" type="image/jpeg"  length="239154" />
+	</entry>
+	<entry>
+		<title>Houston Commercial Fire Alarm Services</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/houston-commercial-fire-alarm-services"/>
+		<published>2022-04-06T15:26:19+00:00</published>
+		<updated>2022-04-06T15:26:19+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/houston-commercial-fire-alarm-services</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">BLTI offers world-class safety and fire alarm installation, service, and monitoring. We are proud to be a partner with homeowners, property owners, bu...</summary>
+		<content type="html">BLTI offers world-class safety and fire alarm installation, service, and monitoring. We are proud to be a partner with homeowners, property owners, bu...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/66/Houston-Commerical-Fire-Alarm.jpg" type="image/jpeg"  length="229363" />
+	</entry>
+	<entry>
+		<title>BLTI acquired by Inframark, adding to their SCADA Portfolio</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/blti-acquired-by-inframark-adding-to-their-scada-portfolio-1"/>
+		<published>2022-04-05T19:45:03+00:00</published>
+		<updated>2022-04-05T19:45:03+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/blti-acquired-by-inframark-adding-to-their-scada-portfolio-1</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">&amp;nbsp;Tomball, TX., March 31st, 2022 – BL Technology, a leader in providing comprehensive integration solutions for instrumentation and control system...</summary>
+		<content type="html">&amp;nbsp;Tomball, TX., March 31st, 2022 – BL Technology, a leader in providing comprehensive integration solutions for instrumentation and control system...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Houston Commerical Fire Safety Systems</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/houston-commerical-fire-safety-systems"/>
+		<published>2022-03-29T19:29:23+00:00</published>
+		<updated>2022-03-29T19:29:23+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/houston-commerical-fire-safety-systems</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">Houston Commercial&amp;nbsp;Fire Safety Systems &amp;amp; Security Systems BLTI is a leading provider of commercial security and fire safety monitoring and ma...</summary>
+		<content type="html">Houston Commercial&amp;nbsp;Fire Safety Systems &amp;amp; Security Systems BLTI is a leading provider of commercial security and fire safety monitoring and ma...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/59/Houston-Commercial-.jpg" type="image/jpeg"  length="263754" />
+	</entry>
+	<entry>
+		<title>What Goes into a Nurse Call System?</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/what-goes-into-a-nurse-call-system"/>
+		<published>2022-03-23T17:35:43+00:00</published>
+		<updated>2022-03-23T17:35:43+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/what-goes-into-a-nurse-call-system</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">Nurse call systems have been in place for a long time within the healthcare industry, but have you wondered how they work? We're going to explore some...</summary>
+		<content type="html">Nurse call systems have been in place for a long time within the healthcare industry, but have you wondered how they work? We're going to explore some...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Commercial Fire Alarm Systems in Houston &amp; Gulf Coast Region</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/commercial-fire-alarm-systems-in-houston-gulf-coast-region"/>
+		<published>2022-03-21T15:05:57+00:00</published>
+		<updated>2022-03-21T15:05:57+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/commercial-fire-alarm-systems-in-houston-gulf-coast-region</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">Our in-house design/build staff can exceed your expectations, meet your budgetary limitations, and help you with any new project requirements. This in...</summary>
+		<content type="html">Our in-house design/build staff can exceed your expectations, meet your budgetary limitations, and help you with any new project requirements. This in...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/57/HoustonFireAlarm.jpg" type="image/jpeg"  length="217065" />
+	</entry>
+	<entry>
+		<title>BLTI is Hiring!</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/blti-is-hiring"/>
+		<published>2022-03-14T16:58:52+00:00</published>
+		<updated>2022-03-14T16:58:52+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/blti-is-hiring</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">In Today's job market, jobs are ever more evolving and changing, just as the supply chain demand has come around. It is so important when choosing a c...</summary>
+		<content type="html">In Today's job market, jobs are ever more evolving and changing, just as the supply chain demand has come around. It is so important when choosing a c...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Using SCADA to Digitize the Texas Power Grid</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/using-scada-to-digitize-the-texas-power-grid"/>
+		<published>2022-03-08T15:31:00+00:00</published>
+		<updated>2022-03-08T15:31:00+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/using-scada-to-digitize-the-texas-power-grid</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">Experts predict that the Bitcoin network's energy use in the United States and worldwide could increase significantly over the next five years, adding...</summary>
+		<content type="html">Experts predict that the Bitcoin network's energy use in the United States and worldwide could increase significantly over the next five years, adding...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/55/SCADA-Texas-Crypto-Mining.jpg" type="image/jpeg"  length="368391" />
+	</entry>
+	<entry>
+		<title>BLTI Celebrates Women in Construction Week</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/blti-celebrates-women-in-construction-week"/>
+		<published>2022-03-07T17:37:32+00:00</published>
+		<updated>2022-03-07T17:37:32+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/blti-celebrates-women-in-construction-week</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">At BLTI we embrace Women in Construction (WIC) Week which is March 6-11 2022. As a proudly women-owned (WBE) company located in Houston, Texas, we wan...</summary>
+		<content type="html">At BLTI we embrace Women in Construction (WIC) Week which is March 6-11 2022. As a proudly women-owned (WBE) company located in Houston, Texas, we wan...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/54/1st-pic.jpg" type="image/jpeg"  length="166093" />
+	</entry>
+	<entry>
+		<title>Control Panel Supply Chain Demands/Issues</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/supply-chain-demand"/>
+		<published>2022-02-28T19:21:07+00:00</published>
+		<updated>2022-02-28T19:21:07+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/supply-chain-demand</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">Companies around the country are experiencing global supply chain issues. Sadly, the global manufacturer's slowdowns are a shortcoming of the COVID -1...</summary>
+		<content type="html">Companies around the country are experiencing global supply chain issues. Sadly, the global manufacturer's slowdowns are a shortcoming of the COVID -1...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/53/BLTI-282_20220228-194457_1.jpg" type="image/jpeg"  length="698118" />
+	</entry>
+	<entry>
+		<title>How Easy is it to Add Video Management to my Security System?</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/how-easy-is-it-to-add-video-management-to-my-security-system"/>
+		<published>2022-02-25T15:31:58+00:00</published>
+		<updated>2022-02-25T15:31:58+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/how-easy-is-it-to-add-video-management-to-my-security-system</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">Every business is unique. A one-size-fits-all solution no longer works for modern security needs. This is where the beauty of integration arises. BLTI...</summary>
+		<content type="html">Every business is unique. A one-size-fits-all solution no longer works for modern security needs. This is where the beauty of integration arises. BLTI...</content>
+		<category term="BLTI" />
+	</entry>
+</feed>

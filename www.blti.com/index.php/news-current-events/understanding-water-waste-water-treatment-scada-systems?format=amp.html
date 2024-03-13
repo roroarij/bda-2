@@ -1,0 +1,450 @@
+<!doctype html>
+<html amp lang="en-GB" >
+	<head>
+		<meta charset="utf-8">
+		<base href=""/>
+				<script async src="https://cdn.ampproject.org/v0.js"></script>
+		<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+
+					<script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+									<script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+			<script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+		
+		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+
+														
+		
+		<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+		<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+		<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+
+		<title>BLTI - News & Current Events - Understanding Water & Wastewater Treatment SCADA Systems</title>
+		<link rel="canonical" href="understanding-water-waste-water-treatment-scada-systems.html" />
+		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+		<link href="https://fonts.googleapis.com/css?family=Heebo" rel="stylesheet">
+		<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "BlogPosting",
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": "https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems"
+			},
+			"headline": "Understanding Water &amp; Wastewater Treatment SCADA Systems",
+			"datePublished": "2022-01-26T19:06:58+00:00",
+			"dateModified": "2022-02-14T20:04:19+00:00",
+			"author": {
+				"@type": "Person",
+				"name": "Candace"
+			},
+			"image": {
+				"@type": "ImageObject",
+				"url": "https://www.blti.com/images/easyblog_articles/45/b2ap3_amp_SCADAWATER-HOUSTON.jpg"
+			},
+			"publisher": {
+				"@type": "Organization",
+				"name": "BLTI",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "https://www.blti.com/templates/t3_bs3_blank/html/com_easyblog/email/logo.png",
+					"width": "297",
+					"height": "129"
+				}
+							}
+		}
+		</script>
+
+		<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+		<style amp-custom>
+body {
+	font-family: 'Heebo', sans-serif;
+	font-size: 18px;
+	line-height: 1.6;
+}
+header {
+	background-color: #222;
+	color: #fff;
+	padding: 10px;
+	position: relative;
+	
+}
+.heading > h1 > a {
+	text-decoration: none;
+	color: #1b69b6;
+}
+.toggle-btn {
+	position: absolute;
+	color: #fff;
+	top: 8px;
+	right: 8px;}
+
+h1 {
+	font-size: 30px;
+}
+h2 {
+	font-size: 26px;
+}
+h3 {
+	font-size: 22px;
+}
+h4 {
+	font-size: 20px;
+}
+h1, h2, h3, h4 {
+	margin-bottom: 10px;
+	padding: 0 0 10px;
+}
+
+p {	
+	color: #222;
+	background-color: #fff;
+	margin-bottom: 10px;
+	padding: 0 0 10px;
+}
+hr {
+	margin-top: 18px;
+	margin-bottom: 18px;
+	border: 0;
+	border-top: 1px solid #eeeeee;
+}
+table {
+	table-layout: fixed;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 16px;
+}
+.table td {
+	vertical-align: top;
+	padding: 6px;
+}
+.table-bordered {
+	border: 1px solid #ddd;
+}
+.table-bordered > thead > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > th,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > th,
+.table-bordered > tfoot > tr > td {
+  border: 1px solid #ddd;
+}
+.table-bordered > thead > tr > th,
+.table-bordered > thead > tr > td {
+  border-bottom-width: 2px;
+}
+.table-striped > tbody > tr:nth-child(odd) > td,
+.table-striped > tbody > tr:nth-child(odd) > th {
+  background-color: #f9f9f9;
+}
+amp-sidebar {
+	width: 150px;
+	position: relative;
+	background: #fff;
+	
+}
+amp-sidebar .close-btn {
+	font-size: 30px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 40px;
+	height: 30px;
+	line-height: 1;
+	padding: 0;
+}
+.sidebar-nav {
+	position: relative;
+	top: 40px;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	border-top: 1px solid #ccc;
+}
+nav li {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+nav li a {
+	padding: 10px;
+	text-decoration: none;
+	color: #666666;
+	background: #fff;
+	border-bottom: 1px solid #ccc;
+	display: block;
+	font-size: 14px;
+}
+
+.blog-content {
+	padding: 16px;
+}
+.blog-meta {
+	font-size: 13px;
+	padding:  16px;
+	color: #666;
+	border-bottom: 1px solid #ccc;
+}
+.blog-meta a {
+	text-decoration: none;
+	color: #1b69b6;
+}
+.blog-meta a:hover,
+.blog-meta a:focus {
+	color: #134a81;
+}
+.blog-meta__author {
+	margin-bottom: 8px;
+}
+
+.carousel .slide > amp-img > img {
+	object-fit: contain;
+}
+
+.related {
+	background-color: #f5f5f5;
+	margin: 10px;
+	display: block;
+	color: #111;
+	height: 75px;
+	padding: 0;
+	text-decoration: none;
+	display: flex;
+}
+.related__img {
+
+}
+.related__body {
+	padding: 10px;
+	flex: 0 1 auto;
+	display: flex;
+	overflow: hidden;
+	width: 100%;
+}
+.related__title {
+	display: block;
+	overflow: hidden;
+
+}
+.related__date {
+	color: #888;
+	font-size: 13px;
+}
+.related__link {
+	text-decoration: none;
+	display: block;
+	align-self: center;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	color: #1155CC;
+}
+
+.btn-eb {
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+	background-image: none;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.428571429;
+	border-radius: 4px;
+	text-decoration: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+
+	color: #333;
+	background-color: #fff;
+	border-color: #ccc;
+}
+.btn-eb-comment {
+	margin: 0 16px 16px;
+	display: block;
+}
+
+
+</style>
+	</head>
+	<body>
+
+		
+		<header>
+			<span class="brand-logo">
+				News & Current Events			</span>
+			<button on="tap:sidebar.toggle" class="toggle-btn" title="Toggle Sidebar" >
+				☰
+			</button>
+		</header>
+
+			<amp-sidebar id="sidebar" layout="nodisplay" side="right">
+		<button class="close-btn" on="tap:sidebar.toggle" type="reset">×</button>
+		<div class="sidebar-nav">
+			<nav>
+				<ul>
+										<li>
+						<a href="../../index.php.html">Home</a>
+					</li>
+										<li>
+						<a href="../company.html">Company</a>
+					</li>
+										<li>
+						<a href="../company.html">About Us</a>
+					</li>
+										<li>
+						<a href="../company/certifications-memberships.html">Certifications & Memberships</a>
+					</li>
+										<li>
+						<a href="../company/certifications-memberships/certifications.html">Certifications</a>
+					</li>
+										<li>
+						<a href="../company/certifications-memberships/memberships.html">Memberships</a>
+					</li>
+										<li>
+						<a href="../company/supported-products.html">Supported Products</a>
+					</li>
+										<li>
+						<a href="../solutions.html">Solutions</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls.html">Instrumentation & Controls</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/engineering-design.html">Engineering & Design</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/programming-capabilities.html">Programming Capabilities</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/control-panels.html">Control Panels</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/instrumentation.html">Instrumentation</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/onsite-services.html">Onsite Services</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/samsara.html">Samsara</a>
+					</li>
+										<li>
+						<a href="../solutions/instrumentation-controls/scada-systems.html">SCADA Systems</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions.html">Life Safety</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/fire-alarm-systems.html">Fire Alarm Systems</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/mass-notification.html">Mass Notification</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/sound-reinforcement.html">Sound Reinforcement</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/inspection.html">Inspection</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/monitoring.html">Monitoring</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/intercom.html">Intercom</a>
+					</li>
+										<li>
+						<a href="../solutions/life-safety-solutions/bi-directional-amplifiers.html">Bi-Directional Amplifiers</a>
+					</li>
+										<li>
+						<a href="../solutions/security-solutions.html">Security</a>
+					</li>
+										<li>
+						<a href="../solutions/security-solutions/access-control.html">Access Control</a>
+					</li>
+										<li>
+						<a href="../solutions/security-solutions/surveillance.html">Surveillance</a>
+					</li>
+										<li>
+						<a href="../solutions/security-solutions/intrusion-alarm-monitoring.html">Intrusion Alarm & Monitoring</a>
+					</li>
+										<li>
+						<a href="../solutions/security-solutions/shooter-detection.html">Shooter Detection</a>
+					</li>
+										<li>
+						<a href="https://blti.bamboohr.com/jobs/">Careers</a>
+					</li>
+										<li>
+						<a href="../news-current-events.html">Culture & Current Events</a>
+					</li>
+										<li>
+						<a href="../contact-us.html">Contact Us</a>
+					</li>
+									</ul>
+			</nav>
+		</div>
+	</amp-sidebar>
+
+					<amp-img layout="responsive" width="724" height="483" src="https://www.blti.com/images/easyblog_articles/45/b2ap3_large_SCADAWATER-HOUSTON.jpg" ></amp-img>
+		
+		<div class="blog-meta">
+			<div class="blog-meta__author">
+									By <a href="blogger/candace.html">Candace</a>
+								on Wednesday, January 26, 2022			</div>
+
+						<div class="blog-meta__cat">
+				Category: <a href="categories/BLTI.html">BLTI</a>
+			</div>
+					</div>
+
+		<div class="blog-content">
+			<div class="heading">
+				<h1><a href="understanding-water-waste-water-treatment-scada-systems.html">Understanding Water & Wastewater Treatment SCADA Systems</a></h1>
+			</div>
+
+			
+			
+			<p>It is crucial to provide clean and affordable water for members of your community by using efficient and precise wastewater and water monitoring systems. Every day, water is monitored from source to tap and back to the source. This ensures that water quality remains consistent with federal and state regulations. BLTI has a rich history of working with utilities, MUD districts, and water boards throughout the greater Houston Area and Texas to assist with SCADA consulting, programming, development, and maintenance.</p><p>Older water and wastewater monitoring systems required lots of staff, time, and resources to run. It is now common to see digital networks monitoring each stage of the treatment process. These digital networks and computer systems that collect and analyze real-time information are known as supervisory control and data acquisition (SCADA).</p><p><a href="https://blti.com/index.php/solutions/instrumentation-controls/scada-systems" title="Houston SCADA Water Treatment" class="" target="_blank" rel="noopener noreferrer">SCADA is used by water and wastewater management companies</a>, utility departments, and other manufacturers for its control and consistent automated data. Through various data logging points, key personnel can identify real-time problems in their systems using SCADA.</p><p>SCADA has seen steady improvements over the past several decades but it took many technological years to achieve the data integration and analysis systems that we see today.</p><p><strong data-redactor-tag="strong" data-verified="redactor">SCADA Development</strong></p><p>Before SCADA, industrial and utility operations could only be managed by the workers who were available to operate and monitor the equipment. These operations increased in scale and necessitated networking capabilities. In the 1950s and 1960s, water and wastewater treatment companies began to use industrial control computers as well as telemetry. Computer technology was increasingly used in the industrial sector as it advanced. Automated systems have improved with the advent of microprocessors and programmable controllers.</p><p>As utilities established local area networks (LANs) and updated human-machine interface software, automated monitoring became more sophisticated in both the 80s and 1990s. These systems were more advanced than older technology, but third-party software was difficult to integrate into existing water or wastewater management systems.</p><p>In the 2000s, open-source SCADA systems became the norm and adopted modern information technology such as structured query language (SQL). Advanced systems can now be connected via secure servers to smart devices like tablets from remote locations. These advances make it possible to stream data 24/7 from anywhere in the world. These advances have huge implications for utilities and public services.</p><p><strong data-redactor-tag="strong" data-verified="redactor">SCADA in Water and Wastewater Monitoring Operations</strong></p><p>Operators can access information instantly and make decisions. Digital monitoring allows operators to access data more accurately and in a timely manner.&nbsp;&nbsp;<span>To a</span><span>ccess c</span><span>urrent i</span><span>nformation for Predictive Analysis, Security&nbsp;</span><span>Flowmeters, which are data loggers, are placed in strategic places to send data to remote terminals. The collected data is then sent to the operators of treatment plants. Operators can see potential problems such as leaks, overflows, and chemical imbalances with this data. Water operations can access up-to-date data to identify potential problems and fix them in advance. This reduces downtime.</span></p><p>Utility companies are also committed to security as a priority. SCADA networks allow for remote access to connected camera systems that can be used to monitor vulnerable areas of the water utility infrastructure. This type of supervision gives management staff the ability to distribute resources more efficiently throughout the system for repairs and support.</p><p><strong data-redactor-tag="strong" data-verified="redactor">Automate Systems with SCADA</strong></p><p>SCADA systems can be automated, which alleviates many of the issues water and wastewater operators have had to deal with over their history. SCADA allows water facilities to detect even the smallest inconsistencies in their day-to-day operations, while still requiring excellent field and plant managers. Automated systems make water and wastewater systems more efficient, in addition to solving complex problems.</p>
+<p>Automated monitoring of wastewater treatment facilities is essential as inefficient and inaccurate overflows could lead to costly fines and violations of EPA regulations. An automated or cloud-connected SCADA can alert operators to make changes or repairs to managing wastewater flow.</p><p><strong data-redactor-tag="strong" data-verified="redactor">Lower Water Utilities and Consumers Costs</strong></p><p>SCADA can help lower the cost of running a community's water treatment or distribution plant. It allows operators to identify which critical systems must be optimized and prioritized. SCADA has revolutionized the way utilities work by greatly improving how operators interact with system data. Water and wastewater treatment plants from all industries can now have an in-depth understanding of their workforce and where they should be using it.</p><p><span>Are you interested in learning more about how BLTI can assist with your SCADA Systems for your wastewater and water operations management in your community? Do you need professional operators who are familiar with the latest SCADA systems?<a href="https://blti.com/index.php/contact-us" title="Link to SCADA Contact Form" target="_blank" rel="noopener noreferrer" class=""> Contact BLTI today </a>and we can schedule a consultation on how our Houston team can assist with your water and wastewater SCADA requirements.</span>&nbsp;</p>		
+												<div class="blog-social">
+						<amp-social-share type="email" width="45" height="33"></amp-social-share>
+
+													<amp-social-share type="facebook" data-param-app_id="" width="45" height="33"></amp-social-share>
+						
+													<amp-social-share type="twitter" width="45" height="33"></amp-social-share>
+						
+													<amp-social-share type="linkedin" width="45" height="33"></amp-social-share>
+						
+						
+						<amp-social-share type="whatsapp" data-share-endpoint="whatsapp://send" data-param-text="Check out this article: TITLE - Understanding Water &amp; Wastewater Treatment SCADA Systems" width="45" height="33"></amp-social-share>
+					</div>
+									</div>
+
+					<h4>Related Posts</h4>
+			<amp-list width="300" height="75" layout="responsive" src="https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems?layout=related&format=json">
+				<template type="amp-mustache">
+					<div class="related">
+						<div class="related__img">
+							<a class="related__link" href="https://www.blti.com/{{url}}">
+								<amp-img width="101" height="75" src="{{thumbnail}}"></amp-img>
+							</a>
+						</div>
+						<div class="related__body">
+							<a class="related__link" href="https://www.blti.com/{{url}}">
+								<span class="related__title">{{title}}</span>
+							</a>
+						</div>
+					</div>
+				</template>
+			</amp-list>
+		
+
+		
+		
+	</body>
+</html>

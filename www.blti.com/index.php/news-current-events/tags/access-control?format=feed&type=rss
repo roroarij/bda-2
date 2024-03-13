@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - Access Control</title>
+		<description><![CDATA[All blog entries tagged as Access Control]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/access-control</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:09:40 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/access-control?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>A Valentine to Our Customers, Employees, and Vendors</title>
+			<link>https://www.blti.com/index.php/news-current-events/happy-valentine-s-day-to-our-customers-employees-and-v</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/happy-valentine-s-day-to-our-customers-employees-and-v</guid>
+			<description><![CDATA[&nbsp;Today is a special day for BLTI as it reminds us to take a moment and thank the most important people in BLTI's past, present, and future. Witho...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 14 Feb 2022 17:44:22 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/50/BLTI-Facility_Tomball_Control-Panels.png" length="1813730" type="image/png"/>
+		</item>
+		<item>
+			<title>Bellaire High School Project Update</title>
+			<link>https://www.blti.com/index.php/news-current-events/bellaire-high-school-project-update</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/bellaire-high-school-project-update</guid>
+			<description><![CDATA[BLTI was awarded a contract with Bellaire HISD for the installation of a Fire Alarm System, Access Control, Intrusion, Aiphone, and Video Surveillance...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 31 Jan 2022 18:52:38 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/48/BLTI_FACP_BDA_VMS_Access_ERCS_reduced.jpg" length="405174" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Why Visitor Management Helps Everyone, Even During the Holidays</title>
+			<link>https://www.blti.com/index.php/news-current-events/why-visitor-management-helps-everyone-even-during-the-holidays</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/why-visitor-management-helps-everyone-even-during-the-holidays</guid>
+			<description><![CDATA[The holidays are upon us, and you may be encountering far more visitors to your facility. You have vendors stopping by to thank you for your business,...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 20 Dec 2021 14:45:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>BLTI is Grateful, Thankful, and Blessed</title>
+			<link>https://www.blti.com/index.php/news-current-events/blti-is-grateful-thankful-and-blessed</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/blti-is-grateful-thankful-and-blessed</guid>
+			<description><![CDATA[With the spirit of Thanksgiving and other holidays approaching fast, BLTI has so much to be thankful for. We opened our doors in 1974 and have been bl...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 22 Nov 2021 18:58:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>BLTI Awarded Contract with BuyBoard to Offer Security, Access Control, and Fire Alarm Products and Services</title>
+			<link>https://www.blti.com/index.php/news-current-events/blti-awarded-contract-with-buyboard-to-offer-security-access-control-and-fire-alarm-products-and-services</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/blti-awarded-contract-with-buyboard-to-offer-security-access-control-and-fire-alarm-products-and-services</guid>
+			<description><![CDATA[11/15/2021 TOMBALL, TX — BL Technology, Inc. (BLTI) was recently awarded a contract with the National Purchasing Cooperative, BuyBoard for Fire, Secur...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 15 Nov 2021 17:28:36 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

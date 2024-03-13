@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - Life Safety</title>
+		<description><![CDATA[All blog entries tagged as Life Safety]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/life-safety</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:13 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/life-safety?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>What Goes into a Nurse Call System?</title>
+			<link>https://www.blti.com/index.php/news-current-events/what-goes-into-a-nurse-call-system</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/what-goes-into-a-nurse-call-system</guid>
+			<description><![CDATA[Nurse call systems have been in place for a long time within the healthcare industry, but have you wondered how they work? We're going to explore some...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 23 Mar 2022 17:35:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bi-Directional Amplifiers (BDA’s) Critical Communication Can Save Lives</title>
+			<link>https://www.blti.com/index.php/news-current-events/bi-directional-amplifiers-bda-s-critical-communication-can-save-lives</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/bi-directional-amplifiers-bda-s-critical-communication-can-save-lives</guid>
+			<description><![CDATA[Imagine finding yourself at the top of a building, with fire all around you, smoke increasing, and in need of assistance. You are a firefighter, EMT, ...]]></description>
+			<category>BLTI</category>
+			<pubDate>Fri, 15 Oct 2021 23:23:09 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

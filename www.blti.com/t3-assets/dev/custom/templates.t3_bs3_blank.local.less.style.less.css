@@ -1,0 +1,7 @@
+.t3-module {
+  margin-bottom: 20px;
+}
+
+.no-side-drop ul.nav li ul {
+  display: none;
+}

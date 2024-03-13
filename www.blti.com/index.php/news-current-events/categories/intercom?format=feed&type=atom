@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">BLTI - Intercom</title>
+	<subtitle type="text">Blog entries categorized under Intercom</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.blti.com"/>
+	<id>https://www.blti.com/index.php/news-current-events/categories/intercom</id>
+	<updated>2024-03-13T01:09:47+00:00</updated>
+	<generator>MYOB</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.blti.com/index.php/news-current-events/categories/intercom?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Is it Important for Facilities to have an Annual Fire Alarm Inspection Performed?</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/is-it-important-for-facilities-to-have-an-annual-fire-alarm-inspection-performed"/>
+		<published>2021-12-27T15:33:22+00:00</published>
+		<updated>2021-12-27T15:33:22+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/is-it-important-for-facilities-to-have-an-annual-fire-alarm-inspection-performed</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">While having a fire alarm system professionally installed at your facility is an excellent measure to help mitigate your fire risk, having an excellen...</summary>
+		<content type="html">While having a fire alarm system professionally installed at your facility is an excellent measure to help mitigate your fire risk, having an excellen...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Design Approach to Intercom Public Address (PA) System</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/design-approach-to-intercom-public-address-pa-system"/>
+		<published>2021-01-07T20:03:24+00:00</published>
+		<updated>2021-01-07T20:03:24+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/design-approach-to-intercom-public-address-pa-system</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">A design approach to a PA system encompasses the available technologies and a project-specific project-specific engineered layout. This requires a rev...</summary>
+		<content type="html">A design approach to a PA system encompasses the available technologies and a project-specific project-specific engineered layout. This requires a rev...</content>
+		<category term="BLTI" />
+	</entry>
+</feed>

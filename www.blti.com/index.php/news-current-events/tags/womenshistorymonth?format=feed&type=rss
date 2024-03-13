@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - WomensHistoryMonth</title>
+		<description><![CDATA[All blog entries tagged as WomensHistoryMonth]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/womenshistorymonth</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:09:54 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/womenshistorymonth?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>BLTI Celebrates Women in Construction Week</title>
+			<link>https://www.blti.com/index.php/news-current-events/blti-celebrates-women-in-construction-week</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/blti-celebrates-women-in-construction-week</guid>
+			<description><![CDATA[At BLTI we embrace Women in Construction (WIC) Week which is March 6-11 2022. As a proudly women-owned (WBE) company located in Houston, Texas, we wan...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 07 Mar 2022 17:37:32 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/54/1st-pic.jpg" length="166093" type="image/jpeg"/>
+		</item>
+	</channel>
+</rss>

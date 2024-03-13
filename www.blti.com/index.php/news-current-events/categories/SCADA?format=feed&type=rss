@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - SCADA</title>
+		<description><![CDATA[Blog entries categorized under SCADA]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/categories/SCADA</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:09:36 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/categories/SCADA?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>SCADA Systems Improving Efficiencies for Energy Companies</title>
+			<link>https://www.blti.com/index.php/news-current-events/scada-systems-improving-efficiencies-for-energy-companies</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/scada-systems-improving-efficiencies-for-energy-companies</guid>
+			<description><![CDATA[&nbsp;SCADA Systems automating&nbsp;reporting for the energy industry In the past, if a company needed to manage many isolated oil and gas sites, they...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 27 Jan 2022 14:00:02 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/47/BLTIEnergySCADASystems.jpg" length="245376" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Understanding Water &amp; Wastewater Treatment SCADA Systems</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems</guid>
+			<description><![CDATA[It is crucial to provide clean and affordable water for members of your community by using efficient and precise wastewater and water monitoring syste...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 26 Jan 2022 19:06:58 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/45/SCADAWATER-HOUSTON.jpg" length="293951" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>What Happens When You Flush?</title>
+			<link>https://www.blti.com/index.php/news-current-events/what-happens-when-you-flush</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/what-happens-when-you-flush</guid>
+			<description><![CDATA[Have you ever wondered what happens when you flush your toilet? It's actually amazing technology that allows for us to easily be able to flush away ou...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 17 Jan 2022 19:56:26 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/42/treatment-plant-wastewater-sedementatio_20220117-201320_1.jpg" length="389552" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Process Control System Integrator - Cybersecurity Risk Assessment</title>
+			<link>https://www.blti.com/index.php/news-current-events/process-control-system-integrator-cybersecurity-risk-assessment</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/process-control-system-integrator-cybersecurity-risk-assessment</guid>
+			<description><![CDATA[Cybersecurity risk assessments verify how the organization's security posture is designed and configured to reject attempts by different types of atta...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 06 Dec 2021 16:44:11 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/36/CyberSecurity_Risk_Assesment_SCADA_Compliance_Regulatory.jpg" length="162428" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>BLTI is Grateful, Thankful, and Blessed</title>
+			<link>https://www.blti.com/index.php/news-current-events/blti-is-grateful-thankful-and-blessed</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/blti-is-grateful-thankful-and-blessed</guid>
+			<description><![CDATA[With the spirit of Thanksgiving and other holidays approaching fast, BLTI has so much to be thankful for. We opened our doors in 1974 and have been bl...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 22 Nov 2021 18:58:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>BLTI Selected as Subcontractor for Several Contracts on the Northeast Water Purification Plant Expansion Project</title>
+			<link>https://www.blti.com/index.php/news-current-events/blti</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/blti</guid>
+			<description><![CDATA[4/28/2020 TOMBALL, TX — BLTI was recently awarded several contracts for the City of Houston's Northeast Water Purification Plant (NEWPP) Expansion Pro...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 28 Apr 2020 16:39:18 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">BLTI - Instrumentation &amp;amp; Controls</title>
+	<subtitle type="text">Blog entries categorized under Instrumentation &amp;amp; Controls</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.blti.com"/>
+	<id>https://www.blti.com/index.php/news-current-events/categories/I&amp;C</id>
+	<updated>2024-03-13T01:09:36+00:00</updated>
+	<generator>MYOB</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.blti.com/index.php/news-current-events/categories/I&amp;C?format=feed&amp;type=atom"/>
+	<entry>
+		<title>SCADA Systems Improving Efficiencies for Energy Companies</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/scada-systems-improving-efficiencies-for-energy-companies"/>
+		<published>2022-01-27T14:00:02+00:00</published>
+		<updated>2022-01-27T14:00:02+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/scada-systems-improving-efficiencies-for-energy-companies</id>
+		<author>
+			<name>Marc Atnipp</name>
+		</author>
+		<summary type="html">&amp;nbsp;SCADA Systems automating&amp;nbsp;reporting for the energy industry In the past, if a company needed to manage many isolated oil and gas sites, they...</summary>
+		<content type="html">&amp;nbsp;SCADA Systems automating&amp;nbsp;reporting for the energy industry In the past, if a company needed to manage many isolated oil and gas sites, they...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/47/BLTIEnergySCADASystems.jpg" type="image/jpeg"  length="245376" />
+	</entry>
+	<entry>
+		<title>Understanding Water &amp; Wastewater Treatment SCADA Systems</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems"/>
+		<published>2022-01-26T19:06:58+00:00</published>
+		<updated>2022-01-26T19:06:58+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-treatment-scada-systems</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">It is crucial to provide clean and affordable water for members of your community by using efficient and precise wastewater and water monitoring syste...</summary>
+		<content type="html">It is crucial to provide clean and affordable water for members of your community by using efficient and precise wastewater and water monitoring syste...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/45/SCADAWATER-HOUSTON.jpg" type="image/jpeg"  length="293951" />
+	</entry>
+	<entry>
+		<title>What Happens When You Flush?</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/what-happens-when-you-flush"/>
+		<published>2022-01-17T19:56:26+00:00</published>
+		<updated>2022-01-17T19:56:26+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/what-happens-when-you-flush</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">Have you ever wondered what happens when you flush your toilet? It's actually amazing technology that allows for us to easily be able to flush away ou...</summary>
+		<content type="html">Have you ever wondered what happens when you flush your toilet? It's actually amazing technology that allows for us to easily be able to flush away ou...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/42/treatment-plant-wastewater-sedementatio_20220117-201320_1.jpg" type="image/jpeg"  length="389552" />
+	</entry>
+	<entry>
+		<title>Samsara Smart Instruments for Water &amp; Wastewater</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/samsara-smart-instruments-for-water-wastewater"/>
+		<published>2022-01-10T16:37:26+00:00</published>
+		<updated>2022-01-10T16:37:26+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/samsara-smart-instruments-for-water-wastewater</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">Samsara is an easy-to-use platform designed to fully improve efficiency, safety and sustainability across all your operations of wastewater! What can ...</summary>
+		<content type="html">Samsara is an easy-to-use platform designed to fully improve efficiency, safety and sustainability across all your operations of wastewater! What can ...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Process Control System Integrator - Cybersecurity Risk Assessment</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/process-control-system-integrator-cybersecurity-risk-assessment"/>
+		<published>2021-12-06T16:44:11+00:00</published>
+		<updated>2021-12-06T16:44:11+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/process-control-system-integrator-cybersecurity-risk-assessment</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">Cybersecurity risk assessments verify how the organization's security posture is designed and configured to reject attempts by different types of atta...</summary>
+		<content type="html">Cybersecurity risk assessments verify how the organization's security posture is designed and configured to reject attempts by different types of atta...</content>
+		<category term="BLTI" />
+		<link rel="enclosure" href="https://www.blti.com/images/easyblog_articles/36/CyberSecurity_Risk_Assesment_SCADA_Compliance_Regulatory.jpg" type="image/jpeg"  length="162428" />
+	</entry>
+	<entry>
+		<title>BLTI is Grateful, Thankful, and Blessed</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/blti-is-grateful-thankful-and-blessed"/>
+		<published>2021-11-22T18:58:24+00:00</published>
+		<updated>2021-11-22T18:58:24+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/blti-is-grateful-thankful-and-blessed</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">With the spirit of Thanksgiving and other holidays approaching fast, BLTI has so much to be thankful for. We opened our doors in 1974 and have been bl...</summary>
+		<content type="html">With the spirit of Thanksgiving and other holidays approaching fast, BLTI has so much to be thankful for. We opened our doors in 1974 and have been bl...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Flow Meter Calibration</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/flow-meter-calibration"/>
+		<published>2021-11-01T14:17:22+00:00</published>
+		<updated>2021-11-01T14:17:22+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/flow-meter-calibration</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">BLTI is spearheading a repair, maintenance, and calibration project for flow meters that service the greater Houston metropolitan area. BLTI is capabl...</summary>
+		<content type="html">BLTI is spearheading a repair, maintenance, and calibration project for flow meters that service the greater Houston metropolitan area. BLTI is capabl...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Process Control System Integrator – Supply Chain Assessment</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/process-control-system-integrator-supply-chain-assessment"/>
+		<published>2021-10-11T16:30:05+00:00</published>
+		<updated>2021-10-11T16:30:05+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/process-control-system-integrator-supply-chain-assessment</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">To secure&amp;nbsp;materials in an efficient manner in an&amp;nbsp;insecure environment, Supply Chain Assessment for a Process Control System Integrator (PCSI...</summary>
+		<content type="html">To secure&amp;nbsp;materials in an efficient manner in an&amp;nbsp;insecure environment, Supply Chain Assessment for a Process Control System Integrator (PCSI...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Production, Startup, Commissioning, and Maintenance of Control Panel by a Control System Integrator - Wiring Time Lapse Video</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/wiring"/>
+		<published>2021-10-04T17:34:20+00:00</published>
+		<updated>2021-10-04T17:34:20+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/wiring</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">At BLTI, we have a wonderful team of technicians that are highly skilled at building custom control panels for our clients. When they learned about th...</summary>
+		<content type="html">At BLTI, we have a wonderful team of technicians that are highly skilled at building custom control panels for our clients. When they learned about th...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Production, Startup, Commissioning and Maintenance of Control Panel by a Control System Integrator (Complete Compilation)</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/production-startup-commissioning-and-maintenance-of-control-panel-by-a-control-system-integrator-complete-compilation"/>
+		<published>2021-09-27T16:29:12+00:00</published>
+		<updated>2021-09-27T16:29:12+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/production-startup-commissioning-and-maintenance-of-control-panel-by-a-control-system-integrator-complete-compilation</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">Control Panel Layout and Mounting of Electronic Components In build­ing the subpanel, it is best to secure the components from the front side. This wi...</summary>
+		<content type="html">Control Panel Layout and Mounting of Electronic Components In build­ing the subpanel, it is best to secure the components from the front side. This wi...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Part 3: Production, Startup, Commissioning, and Maintenance of Control Panel by a Control System Integrator - Testing, Start-up, Commissioning, and Maintenance</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/part-3"/>
+		<published>2021-09-15T19:59:56+00:00</published>
+		<updated>2021-09-15T19:59:56+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/part-3</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">This is part three of Production, Startup, Commissioning and Maintenance of Control Panel by a Control System Integrator. If you have not read parts o...</summary>
+		<content type="html">This is part three of Production, Startup, Commissioning and Maintenance of Control Panel by a Control System Integrator. If you have not read parts o...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Part 2: Production, Startup, Commissioning, and Maintenance of Control Panel by a Control System Integrator - Wiring &amp; Grounding Requirements</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/production-startup-commissioning-and-maintenance-of-control-panel-by-a-control-system-integrator-1"/>
+		<published>2021-09-07T19:21:08+00:00</published>
+		<updated>2021-09-07T19:21:08+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/production-startup-commissioning-and-maintenance-of-control-panel-by-a-control-system-integrator-1</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">This is part two of Production, Startup, Commissioning, and Maintenance of Control Panel by a Control System Integrator.&amp;nbsp; Wiring Recommendations ...</summary>
+		<content type="html">This is part two of Production, Startup, Commissioning, and Maintenance of Control Panel by a Control System Integrator.&amp;nbsp; Wiring Recommendations ...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Production, Startup, Commissioning, and Maintenance of Control Panel by a Control System Integrator - Control Panel Layout and Mounting of Electronic Components</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/production-startup-commissioning-and-maintenance-of-control-panel-by-a-control-system-integrator"/>
+		<published>2021-09-07T18:58:13+00:00</published>
+		<updated>2021-09-07T18:58:13+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/production-startup-commissioning-and-maintenance-of-control-panel-by-a-control-system-integrator</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">Control Panel Layout and Mounting of Electronic Components In build­ing the subpanel, it is best to secure the components from the front side. This wi...</summary>
+		<content type="html">Control Panel Layout and Mounting of Electronic Components In build­ing the subpanel, it is best to secure the components from the front side. This wi...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>Short Circuit Current Ratings for UL 508A Industrial Control Panels</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/short-circuit-current-ratings-for-ul-508a-industrial-control-panels"/>
+		<published>2021-01-12T19:39:32+00:00</published>
+		<updated>2021-01-12T19:39:32+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/short-circuit-current-ratings-for-ul-508a-industrial-control-panels</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">NEC Requirements for Short Circuit Current Ratings (SCCR) Equipment short circuit current rating and overcurrent protective device interrupt rating ar...</summary>
+		<content type="html">NEC Requirements for Short Circuit Current Ratings (SCCR) Equipment short circuit current rating and overcurrent protective device interrupt rating ar...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>BLTI Becomes Value Added Reseller for Samsara - Wireless IoT Solutions for Industry</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/blti-becomes-value-added-reseller-for-samsara-wireless-iot-solutions-for-industry"/>
+		<published>2020-09-01T14:43:34+00:00</published>
+		<updated>2020-09-01T14:43:34+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/blti-becomes-value-added-reseller-for-samsara-wireless-iot-solutions-for-industry</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">Tomball, TX - 1 September 2020 -&amp;nbsp;BLTI (BL Technology, Inc.) is pleased to announce that we have established a relationship as a Value-Added Resel...</summary>
+		<content type="html">Tomball, TX - 1 September 2020 -&amp;nbsp;BLTI (BL Technology, Inc.) is pleased to announce that we have established a relationship as a Value-Added Resel...</content>
+		<category term="BLTI" />
+	</entry>
+	<entry>
+		<title>BLTI Selected as Subcontractor for Several Contracts on the Northeast Water Purification Plant Expansion Project</title>
+		<link rel="alternate" type="text/html" href="https://www.blti.com/index.php/news-current-events/blti"/>
+		<published>2020-04-28T16:39:18+00:00</published>
+		<updated>2020-04-28T16:39:18+00:00</updated>
+		<id>https://www.blti.com/index.php/news-current-events/blti</id>
+		<author>
+			<name>Candace</name>
+		</author>
+		<summary type="html">4/28/2020 TOMBALL, TX — BLTI was recently awarded several contracts for the City of Houston's Northeast Water Purification Plant (NEWPP) Expansion Pro...</summary>
+		<content type="html">4/28/2020 TOMBALL, TX — BLTI was recently awarded several contracts for the City of Houston's Northeast Water Purification Plant (NEWPP) Expansion Pro...</content>
+		<category term="BLTI" />
+	</entry>
+</feed>

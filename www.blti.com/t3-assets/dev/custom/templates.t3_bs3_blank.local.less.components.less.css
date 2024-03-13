@@ -1,0 +1,168 @@
+#k2Container {
+  
+  
+  
+  
+  
+  
+}
+#k2Container .k2Pagination {
+  float: left;
+  text-align: center;
+  width: 100%;
+}
+#k2Container .k2Pagination ul.pagination {
+  float: left;
+  width: 100%;
+}
+#k2Container .itemNavigation .itemPrevious {
+  float: left;
+  text-align: left;
+}
+#k2Container .itemNavigation .itemNext {
+  float: right;
+  text-align: right;
+}
+#k2Container .itemListSubCategories {
+  margin: 0 -15px;
+}
+#k2Container .itemListSubCategories .subCategoryContainer {
+  padding: 15px;
+}
+@media (max-width: 767px) {
+  #k2Container .itemListSubCategories .subCategoryContainer {
+    width: 100% !important;
+  }
+}
+#k2Container .itemListSubCategories .subCategoryContainer .subCategoryImage {
+  position: realtive;
+  overflow: hidden;
+}
+#k2Container .itemListSubCategories .subCategoryContainer .subCategoryImage img {
+  border: 1px solid #eee;
+  object-fit: cover;
+  max-width: 100% !important;
+  max-height: 245px;
+  width: 100%;
+}
+#k2Container .itemListSubCategories .subCategoryContainer h2.subCatTitle {
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+#k2Container .itemListSubCategories .subCategoryContainer a.subCategoryMore {
+  display: block;
+  text-align: center;
+}
+#k2Container.itemListView .itemListCategory img {
+  margin: 0 0 30px 30px;
+  float: right;
+  width: 350px;
+}
+@media (max-width: 991px) {
+  #k2Container.itemListView .itemListCategory img {
+    display: block;
+    margin: 0 auto 10px auto;
+    float: none !important;
+  }
+}
+@media (max-width: 767px) {
+  #k2Container .itemContainer {
+    width: 100% !important;
+  }
+}
+#k2Container .itemContainer h3.catItemTitle:before {
+  content: ">";
+}
+#k2Container.team .itemList > div {
+  margin: -15px -15px;
+}
+@media (max-width: 991px) {
+  #k2Container.team .itemContainer {
+    width: 50% !important;
+  }
+}
+@media (max-width: 767px) {
+  #k2Container.team .itemContainer {
+    width: 100% !important;
+  }
+}
+#k2Container.team .catItemView {
+  padding: 15px;
+}
+#k2Container.team .catItemView .catItemHeader {
+  text-align: center;
+}
+#k2Container.team .catItemView .catItemHeader h3.catItemTitle {
+  margin: 10px auto 0;
+}
+#k2Container.team .catItemView .catItemHeader h3.catItemTitle:before {
+  content: none;
+}
+#k2Container.team .catItemView .catItemHeader .jobTitle h4 {
+  margin-top: 4px;
+}
+#k2Container.team .catItemView .k2ReadMore.btn {
+  margin-top: 5px;
+  width: 100%;
+}
+#k2Container .itemImageBlock {
+  float: right;
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+@media (max-width: 991px) {
+  #k2Container .itemImageBlock {
+    float: none;
+    margin: 0 auto 10px;
+    text-align: center;
+  }
+}
+#k2Container .itemImageBlock img {
+  border: 1px solid #eee;
+}
+@media (max-width: 991px) {
+  #k2Container .itemHeader {
+    margin-top: 10px;
+    text-align: center;
+  }
+}
+#k2Container .itemHeader h1.itemTitle {
+  margin-bottom: 0;
+}
+#k2Container .itemHeader .jobTitle h3 {
+  color: #c41230;
+  font-size: 20px;
+  margin-top: 0;
+}
+#k2Container .itemNavigation {
+  border-bottom: 1px solid #eee;
+  border-top: 1px solid #eee;
+  float: left;
+  margin: 20px auto;
+  padding: 10px 0;
+  width: 100%;
+}
+#k2Container.careers .itemContainer {
+  padding: 10px;
+}
+#k2Container.careers .itemContainer.even {
+  background: #eeeeee;
+}
+#k2Container.careers .itemContainer.odd {
+  background: #e1e1e1;
+}
+#k2Container.careers .itemContainer .view {
+  text-align: center;
+}
+@media (max-width: 767px) {
+  #k2Container.careers .itemContainer .view {
+    text-align: left;
+  }
+}
+#k2Container.careers .subHeader {
+  font-size: 20px;
+}
+#k2Container.careers .itemCategory {
+  text-align: center;
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - SCADA Texas</title>
+		<description><![CDATA[All blog entries tagged as SCADA Texas]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/scada-texas</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:10:18 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/scada-texas?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Understanding SCADA uses for Water Treatment Facilities</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-scada-uses-for-water-treatment-facilities</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-scada-uses-for-water-treatment-facilities</guid>
+			<description><![CDATA[Houston is one of the largest metroplexes in the United States.&nbsp; The Greater Houston area&nbsp;comprises&nbsp;Houston proper and&nbsp;many small ...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 05 Jan 2023 21:25:11 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/77/Houston-SCADA-Water-Systems.jpeg" length="61279" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Using SCADA to Digitize the Texas Power Grid</title>
+			<link>https://www.blti.com/index.php/news-current-events/using-scada-to-digitize-the-texas-power-grid</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/using-scada-to-digitize-the-texas-power-grid</guid>
+			<description><![CDATA[Experts predict that the Bitcoin network's energy use in the United States and worldwide could increase significantly over the next five years, adding...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 08 Mar 2022 15:31:00 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/55/SCADA-Texas-Crypto-Mining.jpg" length="368391" type="image/jpeg"/>
+		</item>
+	</channel>
+</rss>

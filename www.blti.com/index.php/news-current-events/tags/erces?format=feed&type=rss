@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - ERCES</title>
+		<description><![CDATA[All blog entries tagged as ERCES]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/erces</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:09:56 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/erces?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>What Does a Bi-Directional Amplifier (BDA) System Do</title>
+			<link>https://www.blti.com/index.php/news-current-events/what-does-a-bi-directional-amplifier-bda-system-do</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/what-does-a-bi-directional-amplifier-bda-system-do</guid>
+			<description><![CDATA[During an emergency, first responders depend on their radios to allow them to communicate from inside the building to their team members outside. Any ...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 24 Jan 2022 19:15:37 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/43/BDA_Coverage_Issues_RF_EERC.png" length="672497" type="image/png"/>
+		</item>
+	</channel>
+</rss>

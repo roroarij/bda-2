@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - Gallagher</title>
+		<description><![CDATA[All blog entries tagged as Gallagher]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/gallagher</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:09:57 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/gallagher?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Why Visitor Management Helps Everyone, Even During the Holidays</title>
+			<link>https://www.blti.com/index.php/news-current-events/why-visitor-management-helps-everyone-even-during-the-holidays</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/why-visitor-management-helps-everyone-even-during-the-holidays</guid>
+			<description><![CDATA[The holidays are upon us, and you may be encountering far more visitors to your facility. You have vendors stopping by to thank you for your business,...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 20 Dec 2021 14:45:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>BLTI Awarded Contract with BuyBoard to Offer Security, Access Control, and Fire Alarm Products and Services</title>
+			<link>https://www.blti.com/index.php/news-current-events/blti-awarded-contract-with-buyboard-to-offer-security-access-control-and-fire-alarm-products-and-services</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/blti-awarded-contract-with-buyboard-to-offer-security-access-control-and-fire-alarm-products-and-services</guid>
+			<description><![CDATA[11/15/2021 TOMBALL, TX — BL Technology, Inc. (BLTI) was recently awarded a contract with the National Purchasing Cooperative, BuyBoard for Fire, Secur...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 15 Nov 2021 17:28:36 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

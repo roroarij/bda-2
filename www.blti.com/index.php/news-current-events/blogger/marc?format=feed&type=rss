@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - Blogs from Marc Atnipp</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/blogger/marc</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:09:38 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/blogger/marc?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Five Benefits of Utilizing SCADA for Water Treatment Plants</title>
+			<link>https://www.blti.com/index.php/news-current-events/five-benefits-of-utilizing-scada-for-water-treatment-plants</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/five-benefits-of-utilizing-scada-for-water-treatment-plants</guid>
+			<description><![CDATA[Water treatment plants are critical facilities that ensure clean and safe drinking water for the public. These complex plants require precise monitori...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 06 Apr 2023 19:01:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>How SCADA Integrations Aid Texas Water Treatment Facilities</title>
+			<link>https://www.blti.com/index.php/news-current-events/how-scada-integrations-aid-texas-water-treatment-facilities</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/how-scada-integrations-aid-texas-water-treatment-facilities</guid>
+			<description><![CDATA[Water and wastewater treatment facilities throughout Texas face numerous challenges, including maintaining water quality, ensuring regulatory complian...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 28 Feb 2023 17:48:01 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/83/Screen-Shot-2023-02-28-at-11.47.23-AM.png" length="219449" type="image/png"/>
+		</item>
+		<item>
+			<title>Texas' Water Treatment Systems Utilizing SCADA</title>
+			<link>https://www.blti.com/index.php/news-current-events/texas-water-treatment-systems-utilizing-scada</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/texas-water-treatment-systems-utilizing-scada</guid>
+			<description><![CDATA[&nbsp;Supervisory Control and Data Acquisition (SCADA) systems have become increasingly popular in Texas's water and wastewater treatment industry. Th...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 23 Jan 2023 16:46:30 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/78/Wastewater-Treatment-SCADA-BLTI.jpg" length="112563" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Understanding SCADA uses for Water Treatment Facilities</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-scada-uses-for-water-treatment-facilities</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-scada-uses-for-water-treatment-facilities</guid>
+			<description><![CDATA[Houston is one of the largest metroplexes in the United States.&nbsp; The Greater Houston area&nbsp;comprises&nbsp;Houston proper and&nbsp;many small ...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 05 Jan 2023 21:25:11 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/77/Houston-SCADA-Water-Systems.jpeg" length="61279" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Houston Area's Leader in Waste Water and Water Management SCADA Solutions</title>
+			<link>https://www.blti.com/index.php/news-current-events/houston-area-s-leader-in-waste-water-and-water-management-scada-solutions</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/houston-area-s-leader-in-waste-water-and-water-management-scada-solutions</guid>
+			<description><![CDATA[It is vital to ensure that your community has access to clean, affordable water. This can be done using effective and precise water and wastewater mon...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 03 Nov 2022 17:04:44 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/76/HoustonSCADA-Water-Managmeent.png" length="584160" type="image/png"/>
+		</item>
+		<item>
+			<title>Clean Water and SCADA Integrations</title>
+			<link>https://www.blti.com/index.php/news-current-events/clean-water-and-scada-integrations</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/clean-water-and-scada-integrations</guid>
+			<description><![CDATA[The greater Houston area is one of the largest growing metroplexes in the country; with population growth, infrastructure systems such as water and wa...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 25 Oct 2022 20:19:33 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/75/Houston-SCADA-Water-Treatment.png" length="582350" type="image/png"/>
+		</item>
+		<item>
+			<title>Understanding Water &amp; Waste Water SCADA Systems</title>
+			<link>https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-scada-systems</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/understanding-water-waste-water-scada-systems</guid>
+			<description><![CDATA[Communities across the Houston area rely on getting clean water at an affordable price. This involves getting rid of all contaminants. Data is vital a...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 08 Aug 2022 16:42:06 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/74/Screen-Shot-2022-08-08-at-12.16.31-PM.png" length="673883" type="image/png"/>
+		</item>
+		<item>
+			<title>Overview:  Benefits fo SCADA Systems in the Petrochemical Industry</title>
+			<link>https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/overview-benefits-fo-scada-systems-in-the-petrochemical-industry</guid>
+			<description><![CDATA[Petrochemical SCADA Efficiency Benefits SCADA's key benefit is the improvement of efficiency in the processes necessary for the petrochemical industry...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 20 Jul 2022 17:14:32 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/72/Houston-Petrochemical-SCADA.jpeg" length="42902" type="image/webp"/>
+		</item>
+		<item>
+			<title>Scalable SCADA Solutions</title>
+			<link>https://www.blti.com/index.php/news-current-events/scalable-scada-solutions</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/scalable-scada-solutions</guid>
+			<description><![CDATA[Scalable SCADA Integrated Solutions BLTI specializes in the design, construction, and integration custom SCADA systems. This includes applications for...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 11 Jul 2022 17:59:40 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/69/HoustonSCADAIntegration.jpeg" length="39918" type="image/webp"/>
+		</item>
+		<item>
+			<title>Houston Fire Alarm &amp; Systems Planning</title>
+			<link>https://www.blti.com/index.php/news-current-events/houston-fire-alarm-systems-planning</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/houston-fire-alarm-systems-planning</guid>
+			<description><![CDATA[Houston Fire Alarm Planning &amp; InstallationFire System Planning A fire plan is required for new installations in the Greater Houston Area. BLTI wil...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 19 Apr 2022 16:28:34 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/67/HoustonFirealarm.jpg" length="239154" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Houston Commercial Fire Alarm Services</title>
+			<link>https://www.blti.com/index.php/news-current-events/houston-commercial-fire-alarm-services</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/houston-commercial-fire-alarm-services</guid>
+			<description><![CDATA[BLTI offers world-class safety and fire alarm installation, service, and monitoring. We are proud to be a partner with homeowners, property owners, bu...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 06 Apr 2022 15:26:19 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/66/Houston-Commerical-Fire-Alarm.jpg" length="229363" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Houston Commerical Fire Safety Systems</title>
+			<link>https://www.blti.com/index.php/news-current-events/houston-commerical-fire-safety-systems</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/houston-commerical-fire-safety-systems</guid>
+			<description><![CDATA[Houston Commercial&nbsp;Fire Safety Systems &amp; Security Systems BLTI is a leading provider of commercial security and fire safety monitoring and ma...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 29 Mar 2022 19:29:23 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/59/Houston-Commercial-.jpg" length="263754" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Commercial Fire Alarm Systems in Houston &amp; Gulf Coast Region</title>
+			<link>https://www.blti.com/index.php/news-current-events/commercial-fire-alarm-systems-in-houston-gulf-coast-region</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/commercial-fire-alarm-systems-in-houston-gulf-coast-region</guid>
+			<description><![CDATA[Our in-house design/build staff can exceed your expectations, meet your budgetary limitations, and help you with any new project requirements. This in...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 21 Mar 2022 15:05:57 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/57/HoustonFireAlarm.jpg" length="217065" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Using SCADA to Digitize the Texas Power Grid</title>
+			<link>https://www.blti.com/index.php/news-current-events/using-scada-to-digitize-the-texas-power-grid</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/using-scada-to-digitize-the-texas-power-grid</guid>
+			<description><![CDATA[Experts predict that the Bitcoin network's energy use in the United States and worldwide could increase significantly over the next five years, adding...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 08 Mar 2022 15:31:00 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/55/SCADA-Texas-Crypto-Mining.jpg" length="368391" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Houston SCADA System Maintenace Checklist</title>
+			<link>https://www.blti.com/index.php/news-current-events/houston-scada-system-maintenace-checklist</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/houston-scada-system-maintenace-checklist</guid>
+			<description><![CDATA[Houston SCADA Systems Audit Systems Many water and wastewater treatment plants located in the Houston area&nbsp;require the use of supervisory control...]]></description>
+			<category>BLTI</category>
+			<pubDate>Wed, 02 Feb 2022 20:26:27 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/49/HoustonSCADASystems.jpg" length="255677" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>SCADA Systems Improving Efficiencies for Energy Companies</title>
+			<link>https://www.blti.com/index.php/news-current-events/scada-systems-improving-efficiencies-for-energy-companies</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/scada-systems-improving-efficiencies-for-energy-companies</guid>
+			<description><![CDATA[&nbsp;SCADA Systems automating&nbsp;reporting for the energy industry In the past, if a company needed to manage many isolated oil and gas sites, they...]]></description>
+			<category>BLTI</category>
+			<pubDate>Thu, 27 Jan 2022 14:00:02 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/47/BLTIEnergySCADASystems.jpg" length="245376" type="image/jpeg"/>
+		</item>
+	</channel>
+</rss>

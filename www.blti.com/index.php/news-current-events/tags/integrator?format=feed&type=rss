@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BLTI - integrator</title>
+		<description><![CDATA[All blog entries tagged as integrator]]></description>
+		<link>https://www.blti.com/index.php/news-current-events/tags/integrator</link>
+		<lastBuildDate>Wed, 13 Mar 2024 01:09:39 +0000</lastBuildDate>
+		<generator>MYOB</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.blti.com/index.php/news-current-events/tags/integrator?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Process Control System Integrator - Cybersecurity Risk Assessment</title>
+			<link>https://www.blti.com/index.php/news-current-events/process-control-system-integrator-cybersecurity-risk-assessment</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/process-control-system-integrator-cybersecurity-risk-assessment</guid>
+			<description><![CDATA[Cybersecurity risk assessments verify how the organization's security posture is designed and configured to reject attempts by different types of atta...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 06 Dec 2021 16:44:11 +0000</pubDate>
+			<enclosure url="https://www.blti.com/images/easyblog_articles/36/CyberSecurity_Risk_Assesment_SCADA_Compliance_Regulatory.jpg" length="162428" type="image/jpeg"/>
+		</item>
+		<item>
+			<title>Process Control System Integrator – Supply Chain Assessment</title>
+			<link>https://www.blti.com/index.php/news-current-events/process-control-system-integrator-supply-chain-assessment</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/process-control-system-integrator-supply-chain-assessment</guid>
+			<description><![CDATA[To secure&nbsp;materials in an efficient manner in an&nbsp;insecure environment, Supply Chain Assessment for a Process Control System Integrator (PCSI...]]></description>
+			<category>BLTI</category>
+			<pubDate>Mon, 11 Oct 2021 16:30:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>Production, Startup, Commissioning, and Maintenance of Control Panel by a Control System Integrator - Control Panel Layout and Mounting of Electronic Components</title>
+			<link>https://www.blti.com/index.php/news-current-events/production-startup-commissioning-and-maintenance-of-control-panel-by-a-control-system-integrator</link>
+			<guid isPermaLink="true">https://www.blti.com/index.php/news-current-events/production-startup-commissioning-and-maintenance-of-control-panel-by-a-control-system-integrator</guid>
+			<description><![CDATA[Control Panel Layout and Mounting of Electronic Components In build­ing the subpanel, it is best to secure the components from the front side. This wi...]]></description>
+			<category>BLTI</category>
+			<pubDate>Tue, 07 Sep 2021 18:58:13 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
